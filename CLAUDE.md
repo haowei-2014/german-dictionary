@@ -34,3 +34,39 @@ It should support auto-completion and fuzzy matching.
 This is the second priority.
 It creates flash cards for users to practice words.
 
+## Impmentation architecture
+
+### Project Structure
+```
+lib/
+├── main.dart
+├── core/                  # Constants, theme, utils
+├── data/
+│   ├── datasources/       # SQLite database access
+│   ├── models/            # Data models (word, notebook, flashcard)
+│   └── repositories/      # Data access layer
+├── presentation/
+│   ├── screens/           # search, word_detail, notebook, flashcards
+│   ├── widgets/           # Reusable UI components
+│   └── providers/         # State management
+└── services/              # Audio playback service
+```
+
+### Database (SQLite with sqflite)
+- **dictionary**: german_word, chinese_translation, part_of_speech, gender, plural, usage, examples, audio_path
+- **notebooks**: id, name, created_at
+- **saved_words**: word_id, notebook_id, added_at
+- **flashcard_progress**: word_id, last_reviewed, next_review, ease_factor, repetitions
+
+### Key Packages
+- **sqflite** - Local database
+- **provider** - State management
+- **just_audio** - Audio playback
+
+### Search
+- SQLite FTS5 for fuzzy matching and auto-completion
+- Bidirectional: German ↔ Chinese
+
+### Flash Cards
+- SM-2 spaced repetition algorithm
+- Words pulled from user's notebooks
