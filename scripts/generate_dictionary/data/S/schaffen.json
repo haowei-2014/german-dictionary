@@ -1,0 +1,123 @@
+{
+    "german": "schaffen",
+    "explanation":
+    [
+        {
+            "part_of_speech": "verb",
+            "meaning-en": "to manage, to succeed in doing something",
+            "meaning-cn": "完成（有难度的事情）；做到；设法成功",
+            "examples":
+            [
+                {
+                    "example": "Ich schaffe die Prüfung.",
+                    "meaning-en": "I pass the exam.",
+                    "meaning-cn": "我能通过考试。"
+                },
+                {
+                    "example": "Er hat es geschafft, pünktlich zu kommen.",
+                    "meaning-en": "He managed to arrive on time.",
+                    "meaning-cn": "他成功准时到了。"
+                },
+                {
+                    "example": "Schaffst du das allein?",
+                    "meaning-en": "Can you manage that on your own?",
+                    "meaning-cn": "你一个人能搞定吗？"
+                }
+            ],
+            "common-structures": [
+                {
+                    "common-structure": "etwas schaffen",
+                    "meaning-en": "to manage / to accomplish something",
+                    "meaning-cn": "完成某事"
+                },
+                {
+                    "common-structure": "es schaffen, zu + Infinitiv",
+                    "meaning-en": "to manage to do something",
+                    "meaning-cn": "成功做到某事"
+                },
+                {
+                    "common-structure": "das schaffen wir",
+                    "meaning-en": "we can do it",
+                    "meaning-cn": "我们能搞定（口语）"
+                }
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "meaning-en": "to create, to produce, to bring about",
+            "meaning-cn": "创造；产生；建立（新的事物或条件）",
+            "examples":
+            [
+                {
+                    "example": "Der Künstler schafft ein neues Werk.",
+                    "meaning-en": "The artist creates a new work.",
+                    "meaning-cn": "艺术家创作了一件新作品。"
+                },
+                {
+                    "example": "Die Reform soll neue Arbeitsplätze schaffen.",
+                    "meaning-en": "The reform is intended to create new jobs.",
+                    "meaning-cn": "这项改革旨在创造新的就业岗位。"
+                },
+                {
+                    "example": "Das Projekt schafft Vertrauen.",
+                    "meaning-en": "The project creates trust.",
+                    "meaning-cn": "这个项目建立了信任。"
+                }
+            ],
+            "common-structures": [
+                {
+                    "common-structure": "Arbeitsplätze schaffen",
+                    "meaning-en": "to create jobs",
+                    "meaning-cn": "创造就业岗位"
+                },
+                {
+                    "common-structure": "Vertrauen schaffen",
+                    "meaning-en": "to build / create trust",
+                    "meaning-cn": "建立信任"
+                },
+                {
+                    "common-structure": "Voraussetzungen schaffen",
+                    "meaning-en": "to create the conditions",
+                    "meaning-cn": "创造条件"
+                }
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "meaning-en": "to work (regional usage)",
+            "meaning-cn": "工作、干活（地区用法）",
+            "examples":
+            [
+                {
+                    "example": "Er schafft auf dem Bau.",
+                    "meaning-en": "He works on a construction site.",
+                    "meaning-cn": "他在工地干活。"
+                }
+            ]
+        }
+    ],
+    "synonyms and related words":
+    {
+        "bewältigen": {
+            "meaning-en": "cope with",
+            "meaning-cn": "克服"
+        },
+        "erschaffen": {
+            "meaning-en": "create",
+            "meaning-cn": "创造"
+        },
+        "herstellen": {
+            "meaning-en": "manufacture",
+            "meaning-cn": "制造"
+        },
+        "aufbauen": {
+            "meaning-en": "build up",
+            "meaning-cn": "建立"
+        }
+    },
+    "gender": null,
+    "plural": null
+}
+
+
+

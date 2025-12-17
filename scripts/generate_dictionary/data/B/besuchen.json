@@ -1,0 +1,94 @@
+{
+    "german": "besuchen",
+    "explanation":
+    [
+        {
+            "part_of_speech": "verb",
+            "meaning-en": "to visit a person or a place",
+            "meaning-cn": "拜访、访问（人或地方）",
+            "examples":
+            [
+                {
+                    "example": "Ich besuche meine Eltern am Wochenende.",
+                    "meaning-en": "I visit my parents at the weekend.",
+                    "meaning-cn": "我周末去看望父母。"
+                },
+                {
+                    "example": "Viele Touristen besuchen jedes Jahr Berlin.",
+                    "meaning-en": "Many tourists visit Berlin every year.",
+                    "meaning-cn": "每年有很多游客参观柏林。"
+                },
+                {
+                    "example": "Der Arzt besucht den Patienten zu Hause.",
+                    "meaning-en": "The doctor visits the patient at home.",
+                    "meaning-cn": "医生上门看病。"
+                }
+            ],
+            "common-structure": []
+        },
+        {
+            "part_of_speech": "verb",
+            "meaning-en": "to attend a school or course regularly",
+            "meaning-cn": "上学；就读；上课程",
+            "examples":
+            [
+                {
+                    "example": "Sie besucht eine Universität in Deutschland.",
+                    "meaning-en": "She attends a university in Germany.",
+                    "meaning-cn": "她在德国上大学。"
+                },
+                {
+                    "example": "Er besucht einen Deutschkurs.",
+                    "meaning-en": "He attends a German course.",
+                    "meaning-cn": "他在上德语课。"
+                },
+                {
+                    "example": "Die Kinder besuchen die Grundschule.",
+                    "meaning-en": "The children attend primary school.",
+                    "meaning-cn": "孩子们在上小学。"
+                }
+            ]
+        },
+        {
+            "part_of_speech": "verb",
+            "meaning-en": "to attend an event as a visitor or audience",
+            "meaning-cn": "参加活动；观看演出或展览",
+            "examples":
+            [
+                {
+                    "example": "Wir besuchen ein Konzert.",
+                    "meaning-en": "We attend a concert.",
+                    "meaning-cn": "我们去听音乐会。"
+                },
+                {
+                    "example": "Er hat die Messe besucht.",
+                    "meaning-en": "He visited the trade fair.",
+                    "meaning-cn": "他参观了展会。"
+                }
+            ]
+        }
+    ],
+    "synonyms and related words":
+    {
+        "gehen": {
+            "meaning-en": "to go",
+            "meaning-cn": "去"
+        },
+        "besichtigen": {
+            "meaning-en": "to sightsee",
+            "meaning-cn": "参观"
+        },
+        "teilnehmen": {
+            "meaning-en": "to participate",
+            "meaning-cn": "参加"
+        },
+        "studieren": {
+            "meaning-en": "to study",
+            "meaning-cn": "上大学"
+        }
+    },
+    "gender": null,
+    "plural": null
+}
+
+
