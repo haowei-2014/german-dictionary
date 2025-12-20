@@ -1,0 +1,186 @@
+{
+  "german": "waschen",
+  "part_of_speech": "Verb",
+  "gender": null,
+  "is_separable": false,
+  "meanings": [
+    {
+      "english": "to wash; to clean something with water (often with soap), e.g., clothes, dishes, car, fruit, hands",
+      "chinese": "清洗；用水（常配合肥皂）清洗物品，如衣物、餐具、汽车、水果、手等",
+      "examples": [
+        {
+          "german": "Ich wasche das Auto jeden Sonntag.",
+          "english": "I wash the car every Sunday.",
+          "chinese": "我每周日洗车。"
+        },
+        {
+          "german": "Bitte wasch das Obst vor dem Essen.",
+          "english": "Please wash the fruit before eating.",
+          "chinese": "吃之前请把水果洗一洗。"
+        },
+        {
+          "german": "Diese Bluse muss bei 30 Grad gewaschen werden.",
+          "english": "This blouse must be washed at 30 degrees Celsius.",
+          "chinese": "这件女衬衫必须在30度清洗。"
+        }
+      ]
+    },
+    {
+      "english": "to wash oneself (reflexive: sich waschen); to wash one’s body or body parts",
+      "chinese": "（反身：sich waschen）洗自己；清洗身体或身体部位",
+      "examples": [
+        {
+          "german": "Ich wasche mich jeden Morgen mit kaltem Wasser.",
+          "english": "I wash myself every morning with cold water.",
+          "chinese": "我每天早上用冷水洗漱。"
+        },
+        {
+          "german": "Wasch dir bitte die Hände.",
+          "english": "Please wash your hands.",
+          "chinese": "请把手洗一洗。"
+        },
+        {
+          "german": "Sie wäscht sich die Haare zweimal pro Woche.",
+          "english": "She washes her hair twice a week.",
+          "chinese": "她每周洗两次头发。"
+        }
+      ]
+    },
+    {
+      "english": "to launder money (Geld waschen)",
+      "chinese": "洗钱",
+      "examples": [
+        {
+          "german": "Er soll Millionen gewaschen haben.",
+          "english": "He is said to have laundered millions.",
+          "chinese": "据说他洗了上百万黑钱。"
+        },
+        {
+          "german": "Die Bande wäscht das Geld über Scheinfirmen.",
+          "english": "The gang launders the money through shell companies.",
+          "chinese": "该团伙通过空壳公司洗钱。"
+        },
+        {
+          "german": "Geld zu waschen ist strafbar.",
+          "english": "Laundering money is a criminal offense.",
+          "chinese": "洗钱是违法的。"
+        }
+      ]
+    },
+    {
+      "english": "to pan for gold (Gold waschen)",
+      "chinese": "淘金",
+      "examples": [
+        {
+          "german": "Früher wusch man Gold in diesem Fluss.",
+          "english": "People used to pan for gold in this river.",
+          "chinese": "以前人们在这条河里淘金。"
+        },
+        {
+          "german": "Er wäscht im Urlaub Gold als Hobby.",
+          "english": "He pans for gold on vacation as a hobby.",
+          "chinese": "他度假时以淘金为爱好。"
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "german": "sich die Hände waschen",
+      "english": "to wash one’s hands",
+      "chinese": "洗手"
+    },
+    {
+      "german": "Wäsche waschen",
+      "english": "to do the laundry",
+      "chinese": "洗衣服"
+    },
+    {
+      "german": "jemandem die Haare waschen",
+      "english": "to wash someone’s hair",
+      "chinese": "给某人洗头发"
+    },
+    {
+      "german": "das Auto waschen",
+      "english": "to wash the car",
+      "chinese": "洗车"
+    },
+    {
+      "german": "bei 30/40 Grad waschen",
+      "english": "to wash at 30/40 degrees",
+      "chinese": "在30/40度清洗"
+    },
+    {
+      "german": "per Hand waschen / mit der Hand waschen",
+      "english": "to hand-wash",
+      "chinese": "手洗"
+    },
+    {
+      "german": "in der Maschine waschen",
+      "english": "to machine-wash",
+      "chinese": "用洗衣机洗"
+    },
+    {
+      "german": "separat waschen",
+      "english": "to wash separately",
+      "chinese": "分开洗"
+    },
+    {
+      "german": "Geld waschen",
+      "english": "to launder money",
+      "chinese": "洗钱"
+    },
+    {
+      "german": "Gold waschen",
+      "english": "to pan for gold",
+      "chinese": "淘金"
+    }
+  ],
+  "related_words": [
+    {
+      "german": "reinigen",
+      "english": "to clean",
+      "chinese": "清洁／清洗"
+    },
+    {
+      "german": "säubern",
+      "english": "to clean; to tidy up",
+      "chinese": "清理／打扫"
+    },
+    {
+      "german": "abwaschen",
+      "english": "to wash (the dishes)",
+      "chinese": "洗（碗／餐具）"
+    },
+    {
+      "german": "verschmutzen",
+      "english": "to make dirty; to pollute",
+      "chinese": "弄脏／污染"
+    },
+    {
+      "german": "beschmutzen",
+      "english": "to soil; to stain",
+      "chinese": "弄脏／玷污"
+    },
+    {
+      "german": "verunreinigen",
+      "english": "to contaminate",
+      "chinese": "污染／弄脏"
+    },
+    {
+      "german": "Wäsche",
+      "english": "laundry",
+      "chinese": "衣物／洗衣"
+    },
+    {
+      "german": "Waschmaschine",
+      "english": "washing machine",
+      "chinese": "洗衣机"
+    },
+    {
+      "german": "Waschmittel",
+      "english": "detergent",
+      "chinese": "洗涤剂／洗衣液"
+    }
+  ]
+}

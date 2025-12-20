@@ -1,0 +1,160 @@
+{
+  "german": "lecker",
+  "part_of_speech": "Adjektiv/Adverb",
+  "gender": null,
+  "is_separable": null,
+  "meanings": [
+    {
+      "english": "tasty; delicious (of food or drink)",
+      "chinese": "美味的；好吃的（指食物或饮品）",
+      "examples": [
+        {
+          "german": "Das Essen ist wirklich lecker.",
+          "english": "The food is really delicious.",
+          "chinese": "这顿饭真的很美味。"
+        },
+        {
+          "german": "Die Suppe schmeckt lecker.",
+          "english": "The soup tastes delicious.",
+          "chinese": "这汤很好喝。"
+        },
+        {
+          "german": "Hast du etwas Leckeres gekocht?",
+          "english": "Have you cooked something tasty?",
+          "chinese": "你做了什么好吃的吗？"
+        }
+      ]
+    },
+    {
+      "english": "smelling appetizing/pleasant (of food)",
+      "chinese": "闻起来很香、很诱人（指食物的气味）",
+      "examples": [
+        {
+          "german": "Es riecht lecker nach Zimt.",
+          "english": "It smells deliciously of cinnamon.",
+          "chinese": "闻起来有肉桂的香味，很诱人。"
+        },
+        {
+          "german": "Die Küche duftet lecker.",
+          "english": "The kitchen smells delicious.",
+          "chinese": "厨房里飘着诱人的香味。"
+        }
+      ]
+    },
+    {
+      "english": "colloquial: attractive, sexy (of a person)",
+      "chinese": "口语：性感的／有魅力的（形容人，带物化色彩）",
+      "examples": [
+        {
+          "german": "Er/Sie sieht richtig lecker aus.",
+          "english": "He/She looks really hot.",
+          "chinese": "他／她看起来很性感。"
+        },
+        {
+          "german": "Das war ein leckerer Typ.",
+          "english": "That guy was attractive.",
+          "chinese": "那家伙很有魅力。"
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "german": "lecker schmecken",
+      "english": "to taste delicious",
+      "chinese": "吃起来很美味"
+    },
+    {
+      "german": "lecker duften",
+      "english": "to smell delicious",
+      "chinese": "闻起来很香"
+    },
+    {
+      "german": "lecker aussehen",
+      "english": "to look appetizing; colloq.: to look attractive",
+      "chinese": "看起来很诱人；口语：看起来很有魅力"
+    },
+    {
+      "german": "etwas Leckeres",
+      "english": "something tasty",
+      "chinese": "好吃的东西"
+    },
+    {
+      "german": "ein leckeres Essen",
+      "english": "a delicious meal",
+      "chinese": "一顿美味的饭"
+    },
+    {
+      "german": "eine leckere Mahlzeit",
+      "english": "a tasty meal",
+      "chinese": "美味的一餐"
+    },
+    {
+      "german": "lecker kochen",
+      "english": "to cook deliciously; to cook tasty food",
+      "chinese": "烹饪得很美味"
+    },
+    {
+      "german": "etwas lecker finden",
+      "english": "to find something tasty",
+      "chinese": "觉得某物很好吃"
+    },
+    {
+      "german": "leckere Rezepte",
+      "english": "delicious recipes",
+      "chinese": "美味的食谱"
+    },
+    {
+      "german": "ein leckerer Bissen",
+      "english": "a tasty bite; colloq.: an attractive person",
+      "chinese": "一口美味；口语：养眼的人"
+    }
+  ],
+  "related_words": [
+    {
+      "german": "köstlich",
+      "english": "delicious",
+      "chinese": "美味的"
+    },
+    {
+      "german": "schmackhaft",
+      "english": "flavorful; tasty",
+      "chinese": "可口的；味道好的"
+    },
+    {
+      "german": "appetitlich",
+      "english": "appetizing",
+      "chinese": "开胃的；诱人的"
+    },
+    {
+      "german": "ekelhaft",
+      "english": "disgusting",
+      "chinese": "令人作呕的"
+    },
+    {
+      "german": "ungenießbar",
+      "english": "inedible",
+      "chinese": "不可食用的"
+    },
+    {
+      "german": "fade",
+      "english": "bland; insipid",
+      "chinese": "清淡无味的；乏味的"
+    },
+    {
+      "german": "schmecken",
+      "english": "to taste",
+      "chinese": "尝起来；有……味道"
+    },
+    {
+      "german": "Geschmack",
+      "english": "taste; flavor",
+      "chinese": "味道；品味"
+    },
+    {
+      "german": "duften",
+      "english": "to smell nice",
+      "chinese": "散发香味"
+    }
+  ]
+}

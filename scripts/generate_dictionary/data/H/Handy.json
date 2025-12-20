@@ -1,0 +1,118 @@
+{
+  "german": "Handy",
+  "part_of_speech": "Nomen",
+  "gender": "das",
+  "is_separable": null,
+  "meanings": [
+    {
+      "english": "mobile phone; cell phone; cellphone",
+      "chinese": "手机；移动电话",
+      "examples": [
+        {
+          "german": "Ich habe mein Handy zu Hause vergessen.",
+          "english": "I forgot my phone at home.",
+          "chinese": "我把手机忘在家里了。"
+        },
+        {
+          "german": "Der Akku von meinem Handy ist leer.",
+          "english": "My phone's battery is dead.",
+          "chinese": "我的手机电池没电了。"
+        },
+        {
+          "german": "Kannst du mir deine Handynummer geben?",
+          "english": "Can you give me your mobile number?",
+          "chinese": "你能给我你的手机号码吗？"
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "german": "ein Handy benutzen",
+      "english": "to use a mobile phone",
+      "chinese": "使用手机"
+    },
+    {
+      "german": "am Handy sein",
+      "english": "to be on the phone (mobile)",
+      "chinese": "在用手机／在打手机"
+    },
+    {
+      "german": "ans Handy gehen",
+      "english": "to answer the phone",
+      "chinese": "接手机"
+    },
+    {
+      "german": "das Handy aufladen",
+      "english": "to charge the phone",
+      "chinese": "给手机充电"
+    },
+    {
+      "german": "das Handy ausschalten",
+      "english": "to switch off the phone",
+      "chinese": "关手机"
+    },
+    {
+      "german": "das Handy einschalten",
+      "english": "to switch on the phone",
+      "chinese": "开手机"
+    },
+    {
+      "german": "das Handy klingelt",
+      "english": "the phone is ringing",
+      "chinese": "手机在响"
+    },
+    {
+      "german": "das Handy lautlos stellen",
+      "english": "to put the phone on silent",
+      "chinese": "把手机调成静音"
+    },
+    {
+      "german": "eine Handyhülle",
+      "english": "a phone case",
+      "chinese": "手机壳"
+    },
+    {
+      "german": "ein Handyvertrag",
+      "english": "a mobile phone contract/plan",
+      "chinese": "手机合约／套餐"
+    }
+  ],
+  "related_words": [
+    {
+      "german": "Mobiltelefon",
+      "english": "mobile phone",
+      "chinese": "移动电话"
+    },
+    {
+      "german": "Smartphone",
+      "english": "smartphone",
+      "chinese": "智能手机"
+    },
+    {
+      "german": "Natel",
+      "english": "mobile phone (Swiss usage)",
+      "chinese": "手机（瑞士德语）"
+    },
+    {
+      "german": "Festnetztelefon",
+      "english": "landline telephone",
+      "chinese": "固定电话"
+    },
+    {
+      "german": "Festnetz",
+      "english": "fixed-line network; landline",
+      "chinese": "固定电话网络；固话"
+    },
+    {
+      "german": "SIM-Karte",
+      "english": "SIM card",
+      "chinese": "SIM卡"
+    },
+    {
+      "german": "Akku",
+      "english": "battery (rechargeable)",
+      "chinese": "电池（可充电）"
+    }
+  ]
+}

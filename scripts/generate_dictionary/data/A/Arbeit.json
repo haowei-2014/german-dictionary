@@ -1,0 +1,176 @@
+{
+  "german": "Arbeit",
+  "part_of_speech": "Nomen",
+  "gender": "die",
+  "is_separable": null,
+  "meanings": [
+    {
+      "english": "work; job; employment; the tasks you do for your job or livelihood",
+      "chinese": "工作；职业；（工作的）事务",
+      "examples": [
+        {
+          "german": "Ich gehe heute früh zur Arbeit.",
+          "english": "I’m going to work early today.",
+          "chinese": "我今天一早去上班。"
+        },
+        {
+          "german": "Ich habe heute viel Arbeit zu erledigen.",
+          "english": "I have a lot of work to get done today.",
+          "chinese": "我今天有很多工作要完成。"
+        },
+        {
+          "german": "Nach dem Studium fand sie schnell Arbeit.",
+          "english": "After graduating, she quickly found work.",
+          "chinese": "毕业后她很快找到了工作。"
+        }
+      ]
+    },
+    {
+      "english": "a piece of work; an academic/artistic work or paper",
+      "chinese": "（一件）作品；论文；著作",
+      "examples": [
+        {
+          "german": "Sie schreibt eine wissenschaftliche Arbeit über Klimapolitik.",
+          "english": "She is writing an academic paper on climate policy.",
+          "chinese": "她正在写一篇关于气候政策的学术论文。"
+        },
+        {
+          "german": "Seine Arbeit wurde mit einem Preis ausgezeichnet.",
+          "english": "His work was awarded a prize.",
+          "chinese": "他的作品获得了奖项。"
+        }
+      ]
+    },
+    {
+      "english": "effort; labor; the exertion required to achieve something",
+      "chinese": "努力；劳作；为达成目标所需的付出",
+      "examples": [
+        {
+          "german": "Das kostet viel Arbeit.",
+          "english": "That takes a lot of work.",
+          "chinese": "那需要很多功夫。"
+        },
+        {
+          "german": "Gute Arbeit!",
+          "english": "Good job!",
+          "chinese": "干得好！"
+        }
+      ]
+    },
+    {
+      "english": "physics: work (force times distance), measured in joules",
+      "chinese": "物理学：功（力乘以位移），单位焦耳",
+      "examples": [
+        {
+          "german": "In der Physik ist Arbeit Kraft mal Weg.",
+          "english": "In physics, work is force times distance.",
+          "chinese": "在物理学中，功等于力乘以位移。"
+        },
+        {
+          "german": "Die verrichtete Arbeit beträgt 20 Joule.",
+          "english": "The work done amounts to 20 joules.",
+          "chinese": "所做的功为20焦耳。"
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "german": "zur Arbeit gehen",
+      "english": "to go to work",
+      "chinese": "去上班"
+    },
+    {
+      "german": "bei der Arbeit",
+      "english": "at work; while working",
+      "chinese": "在工作时；在单位"
+    },
+    {
+      "german": "Arbeit finden",
+      "english": "to find work",
+      "chinese": "找到工作"
+    },
+    {
+      "german": "Arbeit suchen",
+      "english": "to look for work",
+      "chinese": "找工作"
+    },
+    {
+      "german": "Arbeit erledigen",
+      "english": "to get/finish work; to complete tasks",
+      "chinese": "完成工作；把事情办完"
+    },
+    {
+      "german": "Arbeit leisten",
+      "english": "to perform/do work; to make a contribution",
+      "chinese": "进行工作；作出贡献"
+    },
+    {
+      "german": "mit der Arbeit beginnen",
+      "english": "to start work",
+      "chinese": "开始工作"
+    },
+    {
+      "german": "an einer Arbeit schreiben",
+      "english": "to work on/write a paper/work",
+      "chinese": "撰写一篇论文／作品"
+    },
+    {
+      "german": "Arbeit abgeben",
+      "english": "to hand in a paper/assignment",
+      "chinese": "交作业／交论文"
+    },
+    {
+      "german": "in Arbeit sein",
+      "english": "to be in progress",
+      "chinese": "在进行中"
+    }
+  ],
+  "related_words": [
+    {
+      "german": "arbeiten",
+      "english": "to work",
+      "chinese": "工作"
+    },
+    {
+      "german": "Beruf",
+      "english": "profession; occupation",
+      "chinese": "职业"
+    },
+    {
+      "german": "Job",
+      "english": "job (often casual/temporary)",
+      "chinese": "工作（多指兼职／临时）"
+    },
+    {
+      "german": "Tätigkeit",
+      "english": "activity; occupation",
+      "chinese": "活动；职业"
+    },
+    {
+      "german": "Beschäftigung",
+      "english": "employment; occupation",
+      "chinese": "就业；工作；事务"
+    },
+    {
+      "german": "Aufgabe",
+      "english": "task; assignment",
+      "chinese": "任务；作业"
+    },
+    {
+      "german": "Werk",
+      "english": "work; opus; creation (artistic/technical)",
+      "chinese": "作品；著作；成品"
+    },
+    {
+      "german": "Freizeit",
+      "english": "leisure; free time",
+      "chinese": "空闲时间；闲暇"
+    },
+    {
+      "german": "Urlaub",
+      "english": "vacation; leave",
+      "chinese": "假期；休假"
+    }
+  ]
+}

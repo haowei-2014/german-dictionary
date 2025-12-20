@@ -1,0 +1,149 @@
+{
+  "german": "sehr",
+  "part_of_speech": "Adverb",
+  "gender": null,
+  "is_separable": null,
+  "meanings": [
+    {
+      "english": "very (degree adverb modifying adjectives and adverbs)",
+      "chinese": "非常，很（程度副词，修饰形容词和副词）",
+      "examples": [
+        {
+          "german": "Es ist heute sehr kalt.",
+          "english": "It is very cold today.",
+          "chinese": "今天非常冷。"
+        },
+        {
+          "german": "Er spricht sehr schnell.",
+          "english": "He speaks very fast.",
+          "chinese": "他讲得很快。"
+        },
+        {
+          "german": "Das war sehr wichtig für mich.",
+          "english": "That was very important to me.",
+          "chinese": "这对我来说非常重要。"
+        }
+      ]
+    },
+    {
+      "english": "very much; a lot (intensifies verbs, e.g., liking, helping)",
+      "chinese": "非常；很（加强动词意义，如喜欢、帮助等）",
+      "examples": [
+        {
+          "german": "Ich mag sie sehr.",
+          "english": "I like her very much.",
+          "chinese": "我非常喜欢她。"
+        },
+        {
+          "german": "Danke, das hilft mir sehr.",
+          "english": "Thanks, that helps me a lot.",
+          "chinese": "谢谢，这对我很有帮助。"
+        },
+        {
+          "german": "Er hat sich sehr gefreut.",
+          "english": "He was very happy (delighted).",
+          "chinese": "他非常高兴。"
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "german": "sehr gut",
+      "english": "very good",
+      "chinese": "非常好"
+    },
+    {
+      "german": "sehr schön",
+      "english": "very beautiful; very nice",
+      "chinese": "非常漂亮；非常好"
+    },
+    {
+      "german": "sehr wichtig",
+      "english": "very important",
+      "chinese": "非常重要"
+    },
+    {
+      "german": "sehr kalt",
+      "english": "very cold",
+      "chinese": "非常冷"
+    },
+    {
+      "german": "sehr schnell",
+      "english": "very fast",
+      "chinese": "非常快"
+    },
+    {
+      "german": "sehr gern(e)",
+      "english": "very gladly; like very much",
+      "chinese": "非常愿意；很喜欢"
+    },
+    {
+      "german": "sehr viel",
+      "english": "a lot; very much",
+      "chinese": "很多；非常多"
+    },
+    {
+      "german": "nicht sehr",
+      "english": "not very",
+      "chinese": "不太"
+    },
+    {
+      "german": "zu sehr",
+      "english": "too much; overly",
+      "chinese": "过于；太过"
+    },
+    {
+      "german": "sehr lange",
+      "english": "for a very long time",
+      "chinese": "很久；很长时间"
+    }
+  ],
+  "related_words": [
+    {
+      "german": "äußerst",
+      "english": "extremely",
+      "chinese": "极其；非常"
+    },
+    {
+      "german": "überaus",
+      "english": "exceedingly; extremely",
+      "chinese": "非常；极为"
+    },
+    {
+      "german": "höchst",
+      "english": "highly; extremely",
+      "chinese": "极其；非常"
+    },
+    {
+      "german": "kaum",
+      "english": "hardly; scarcely",
+      "chinese": "几乎不"
+    },
+    {
+      "german": "wenig",
+      "english": "little (in degree/amount)",
+      "chinese": "很少；不多"
+    },
+    {
+      "german": "gar nicht",
+      "english": "not at all",
+      "chinese": "一点也不"
+    },
+    {
+      "german": "allzu",
+      "english": "overly; too",
+      "chinese": "过于；太"
+    },
+    {
+      "german": "zu",
+      "english": "too (excessively)",
+      "chinese": "太（过分）"
+    },
+    {
+      "german": "ziemlich",
+      "english": "quite; rather",
+      "chinese": "相当；颇"
+    }
+  ]
+}
