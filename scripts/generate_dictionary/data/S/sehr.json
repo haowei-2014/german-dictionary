@@ -1,149 +1,153 @@
 {
-  "german": "sehr",
+  "de": "sehr",
   "part_of_speech": "Adverb",
   "gender": null,
   "is_separable": null,
+  "summary": {
+    "en": "Pure adverb meaning “very”. Intensifies adjectives/adverbs and verbs (“very much”). Most common degree intensifier.",
+    "cn": "纯副词，意为“非常/很”。加强形容词、副词，也可修饰动词表“非常”。最常见的程度副词。"
+  },
   "meanings": [
     {
-      "english": "very (degree adverb modifying adjectives and adverbs)",
-      "chinese": "非常，很（程度副词，修饰形容词和副词）",
+      "en": "very (intensifier before adjectives/adverbs)",
+      "cn": "非常；很（用于形容词/副词前）",
       "examples": [
         {
-          "german": "Es ist heute sehr kalt.",
-          "english": "It is very cold today.",
-          "chinese": "今天非常冷。"
+          "de": "Das Essen ist sehr gut.",
+          "en": "The food is very good.",
+          "cn": "食物很好。"
         },
         {
-          "german": "Er spricht sehr schnell.",
-          "english": "He speaks very fast.",
-          "chinese": "他讲得很快。"
+          "de": "Heute ist es sehr kalt.",
+          "en": "It is very cold today.",
+          "cn": "今天很冷。"
         },
         {
-          "german": "Das war sehr wichtig für mich.",
-          "english": "That was very important to me.",
-          "chinese": "这对我来说非常重要。"
+          "de": "Er spricht sehr schnell.",
+          "en": "He speaks very fast.",
+          "cn": "他说话很快。"
         }
       ]
     },
     {
-      "english": "very much; a lot (intensifies verbs, e.g., liking, helping)",
-      "chinese": "非常；很（加强动词意义，如喜欢、帮助等）",
+      "en": "very much; greatly (intensifying a verb)",
+      "cn": "非常地；很（修饰动词）",
       "examples": [
         {
-          "german": "Ich mag sie sehr.",
-          "english": "I like her very much.",
-          "chinese": "我非常喜欢她。"
+          "de": "Ich liebe dich sehr.",
+          "en": "I love you very much.",
+          "cn": "我非常爱你。"
         },
         {
-          "german": "Danke, das hilft mir sehr.",
-          "english": "Thanks, that helps me a lot.",
-          "chinese": "谢谢，这对我很有帮助。"
+          "de": "Es hat mir sehr gefallen.",
+          "en": "I liked it very much.",
+          "cn": "我非常喜欢它。"
         },
         {
-          "german": "Er hat sich sehr gefreut.",
-          "english": "He was very happy (delighted).",
-          "chinese": "他非常高兴。"
+          "de": "Vielen Dank, das hilft mir sehr.",
+          "en": "Thank you, that helps me a lot.",
+          "cn": "谢谢，这对我很有帮助。"
         }
       ]
     }
   ],
   "collocations": [
     {
-      "german": "sehr gut",
-      "english": "very good",
-      "chinese": "非常好"
+      "de": "sehr gut",
+      "en": "very good",
+      "cn": "很好"
     },
     {
-      "german": "sehr schön",
-      "english": "very beautiful; very nice",
-      "chinese": "非常漂亮；非常好"
+      "de": "sehr gerne",
+      "en": "very gladly; with pleasure",
+      "cn": "非常乐意"
     },
     {
-      "german": "sehr wichtig",
-      "english": "very important",
-      "chinese": "非常重要"
+      "de": "sehr wichtig",
+      "en": "very important",
+      "cn": "很重要"
     },
     {
-      "german": "sehr kalt",
-      "english": "very cold",
-      "chinese": "非常冷"
+      "de": "sehr kalt",
+      "en": "very cold",
+      "cn": "很冷"
     },
     {
-      "german": "sehr schnell",
-      "english": "very fast",
-      "chinese": "非常快"
+      "de": "sehr schnell",
+      "en": "very fast",
+      "cn": "很快"
     },
     {
-      "german": "sehr gern(e)",
-      "english": "very gladly; like very much",
-      "chinese": "非常愿意；很喜欢"
+      "de": "sehr viel",
+      "en": "very much; a lot",
+      "cn": "很多／非常多"
     },
     {
-      "german": "sehr viel",
-      "english": "a lot; very much",
-      "chinese": "很多；非常多"
+      "de": "sehr lange",
+      "en": "(for) a very long time",
+      "cn": "很久"
     },
     {
-      "german": "nicht sehr",
-      "english": "not very",
-      "chinese": "不太"
+      "de": "sehr spät",
+      "en": "very late",
+      "cn": "很晚"
     },
     {
-      "german": "zu sehr",
-      "english": "too much; overly",
-      "chinese": "过于；太过"
+      "de": "sehr wohl",
+      "en": "indeed; very much so; by all means",
+      "cn": "的确；完全可以"
     },
     {
-      "german": "sehr lange",
-      "english": "for a very long time",
-      "chinese": "很久；很长时间"
+      "de": "nicht sehr",
+      "en": "not very",
+      "cn": "不太"
     }
   ],
   "related_words": [
     {
-      "german": "äußerst",
-      "english": "extremely",
-      "chinese": "极其；非常"
+      "de": "äußerst",
+      "en": "extremely",
+      "cn": "极其"
     },
     {
-      "german": "überaus",
-      "english": "exceedingly; extremely",
-      "chinese": "非常；极为"
+      "de": "überaus",
+      "en": "exceedingly",
+      "cn": "非常；极其"
     },
     {
-      "german": "höchst",
-      "english": "highly; extremely",
-      "chinese": "极其；非常"
+      "de": "ungemein",
+      "en": "immensely; tremendously",
+      "cn": "极大地；非常"
     },
     {
-      "german": "kaum",
-      "english": "hardly; scarcely",
-      "chinese": "几乎不"
+      "de": "enorm",
+      "en": "enormously; very",
+      "cn": "极其；非常"
     },
     {
-      "german": "wenig",
-      "english": "little (in degree/amount)",
-      "chinese": "很少；不多"
+      "de": "ziemlich",
+      "en": "quite; fairly",
+      "cn": "相当"
     },
     {
-      "german": "gar nicht",
-      "english": "not at all",
-      "chinese": "一点也不"
+      "de": "wirklich",
+      "en": "really; truly (as intensifier)",
+      "cn": "真的；确实（强调）"
     },
     {
-      "german": "allzu",
-      "english": "overly; too",
-      "chinese": "过于；太"
+      "de": "kaum",
+      "en": "hardly; scarcely",
+      "cn": "几乎不"
     },
     {
-      "german": "zu",
-      "english": "too (excessively)",
-      "chinese": "太（过分）"
+      "de": "wenig",
+      "en": "little; not much",
+      "cn": "很少；不多"
     },
     {
-      "german": "ziemlich",
-      "english": "quite; rather",
-      "chinese": "相当；颇"
+      "de": "etwas",
+      "en": "somewhat; a bit",
+      "cn": "有点；稍微"
     }
   ]
 }

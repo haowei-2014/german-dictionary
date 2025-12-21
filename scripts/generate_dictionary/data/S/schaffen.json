@@ -1,202 +1,211 @@
 {
-  "german": "schaffen",
+  "de": "schaffen",
   "part_of_speech": "Verb",
   "gender": null,
   "is_separable": false,
+  "summary": {
+    "en": "Verb with two forms: schaffen–schaffte–geschafft = manage; regional: work. schaffen–schuf–geschaffen = create. Also: to bring/move. Note: jdm. zu schaffen machen = to trouble sb.",
+    "cn": "动词，弱变化=完成/办到；南德口语=工作；强变化=创造；亦指把…送至/搬到。注意：jdm. zu schaffen machen=使某人困扰/为难。"
+  },
   "meanings": [
     {
-      "english": "to manage; to accomplish; to succeed at (incl. to pass an exam)",
-      "chinese": "完成；办到；成功；通过（考试）",
+      "en": "to manage; to get something done (weak: schaffte, geschafft)",
+      "cn": "完成；办到（弱变化：schaffte, geschafft）",
       "examples": [
         {
-          "german": "Wir schaffen das!",
-          "english": "We’ll manage it!",
-          "chinese": "我们能做到！"
+          "de": "Ich schaffe das.",
+          "en": "I can manage it.",
+          "cn": "我能做到。"
         },
         {
-          "german": "Ich habe die Prüfung geschafft.",
-          "english": "I passed the exam.",
-          "chinese": "我通过了考试。"
+          "de": "Wir haben es rechtzeitig geschafft.",
+          "en": "We managed it on time.",
+          "cn": "我们及时完成了。"
         },
         {
-          "german": "Schaffst du es, pünktlich zu kommen?",
-          "english": "Can you manage to come on time?",
-          "chinese": "你能按时来吗？"
+          "de": "Schaffst du es bis morgen?",
+          "en": "Can you get it done by tomorrow?",
+          "cn": "你能在明天前搞定吗？"
         }
       ]
     },
     {
-      "english": "to create; to bring into existence (strong verb: schuf, geschaffen)",
-      "chinese": "创造；建立（强变化：schuf, geschaffen）",
+      "en": "to create; to bring into existence (strong: schuf, geschaffen)",
+      "cn": "创造；使产生（强变化：schuf, geschaffen）",
       "examples": [
         {
-          "german": "Der Künstler hat ein Meisterwerk geschaffen.",
-          "english": "The artist created a masterpiece.",
-          "chinese": "艺术家创作了一件杰作。"
+          "de": "Gott schuf die Welt.",
+          "en": "God created the world.",
+          "cn": "上帝创造了世界。"
         },
         {
-          "german": "Die Reformen haben neue Arbeitsplätze geschaffen.",
-          "english": "The reforms have created new jobs.",
-          "chinese": "改革创造了新的就业岗位。"
+          "de": "Die Künstlerin hat ein neues Werk geschaffen.",
+          "en": "The artist has created a new work.",
+          "cn": "这位女艺术家创作了新作品。"
         },
         {
-          "german": "Gott schuf die Welt.",
-          "english": "God created the world.",
-          "chinese": "上帝创造了世界。"
+          "de": "Die Reform schuf neue Arbeitsplätze.",
+          "en": "The reform created new jobs.",
+          "cn": "改革创造了新的就业岗位。"
         }
       ]
     },
     {
-      "english": "to take/bring/get something somewhere (colloquial)",
-      "chinese": "把某物送到／搬到某处（口语）",
+      "en": "to bring/carry/get someone or something somewhere; to move/transport (colloquial)",
+      "cn": "把…送至/搬到；运送（口语）",
       "examples": [
         {
-          "german": "Kannst du die Kisten in den Keller schaffen?",
-          "english": "Can you carry the boxes to the basement?",
-          "chinese": "你能把箱子搬到地下室吗？"
+          "de": "Kannst du die Kisten in den Keller schaffen?",
+          "en": "Can you carry the boxes to the basement?",
+          "cn": "你能把箱子搬到地下室吗？"
         },
         {
-          "german": "Ich schaffe das Paket zur Post.",
-          "english": "I’ll take the parcel to the post office.",
-          "chinese": "我把包裹送到邮局。"
+          "de": "Er schaffte den Verletzten ins Krankenhaus.",
+          "en": "He got the injured person to the hospital.",
+          "cn": "他把伤者送到了医院。"
         },
         {
-          "german": "Sie schafften das Kind rechtzeitig ins Krankenhaus.",
-          "english": "They got the child to the hospital in time.",
-          "chinese": "他们及时把孩子送到了医院。"
+          "de": "Wir müssen das Gerät schnell in die Werkstatt schaffen.",
+          "en": "We need to get the device to the workshop quickly.",
+          "cn": "我们得赶快把设备送到修理厂。"
         }
       ]
     },
     {
-      "english": "to work (southern/regional usage)",
-      "chinese": "工作（南德/地区性用法）",
+      "en": "to work (regional, esp. southern Germany; colloquial)",
+      "cn": "工作（地区用法，尤指德南；口语）",
       "examples": [
         {
-          "german": "Ich schaffe heute bis 18 Uhr.",
-          "english": "I’m working until 6 p.m. today.",
-          "chinese": "我今天工作到晚上六点。"
+          "de": "Ich muss heute bis spät schaffen.",
+          "en": "I have to work late today.",
+          "cn": "我今天得加班到很晚。"
         },
         {
-          "german": "Wo schaffst du?",
-          "english": "Where do you work?",
-          "chinese": "你在哪儿上班？"
+          "de": "Er schafft bei Bosch.",
+          "en": "He works at Bosch.",
+          "cn": "他在博世工作。"
+        },
+        {
+          "de": "Sie schafft im Schichtdienst.",
+          "en": "She works shifts.",
+          "cn": "她上轮班。"
         }
       ]
     },
     {
-      "english": "to wear out; to exhaust (etw. schafft jdn.)",
-      "chinese": "使精疲力尽；累垮（某事使某人）",
+      "en": "to wear out/exhaust (colloquial, often with objects like heat, stress)",
+      "cn": "使筋疲力尽；耗垮（口语，常用于热、压力等主语）",
       "examples": [
         {
-          "german": "Die Hitze schafft mich.",
-          "english": "The heat wears me out.",
-          "chinese": "炎热让我筋疲力尽。"
+          "de": "Die Hitze schafft mich.",
+          "en": "The heat is wearing me out.",
+          "cn": "炎热让我吃不消。"
         },
         {
-          "german": "Der Stress hat ihn völlig geschafft.",
-          "english": "The stress has completely exhausted him.",
-          "chinese": "压力把他彻底累垮了。"
+          "de": "Die Prüfungsvorbereitung hat mich geschafft.",
+          "en": "Exam prep exhausted me.",
+          "cn": "考试准备把我累坏了。"
         }
       ]
     }
   ],
   "collocations": [
     {
-      "german": "etw. schaffen (Akk.)",
-      "english": "to accomplish/achieve something",
-      "chinese": "完成／办成某事"
+      "de": "etw. schaffen (Akk)",
+      "en": "to accomplish something",
+      "cn": "完成某事"
     },
     {
-      "german": "es schaffen, zu + Inf.",
-      "english": "to manage to do something",
-      "chinese": "设法做到某事"
+      "de": "es schaffen, etw. zu tun",
+      "en": "to manage to do something",
+      "cn": "设法做成某事"
     },
     {
-      "german": "die Prüfung/den Test schaffen",
-      "english": "to pass the exam/test",
-      "chinese": "通过考试／测验"
+      "de": "es (rechtzeitig/kaum) schaffen",
+      "en": "to make it (on time/barely)",
+      "cn": "（准时/勉强）赶上/完成"
     },
     {
-      "german": "es ins Finale/in die Top 10 schaffen",
-      "english": "to make it to the final/top 10",
-      "chinese": "挤进决赛／前十"
+      "de": "neue Arbeitsplätze schaffen",
+      "en": "to create new jobs",
+      "cn": "创造新的就业岗位"
     },
     {
-      "german": "Arbeitsplätze/Vertrauen/Ordnung schaffen",
-      "english": "to create jobs/trust/order",
-      "chinese": "创造工作岗位／信任／秩序"
+      "de": "Vertrauen/Klarheit/Ordnung schaffen",
+      "en": "to create trust/clarity/order",
+      "cn": "建立信任/创造清晰/建立秩序"
     },
     {
-      "german": "Abhilfe schaffen",
-      "english": "to provide a remedy",
-      "chinese": "提供补救／改进"
+      "de": "Voraussetzungen/Grundlagen schaffen",
+      "en": "to create conditions/foundations",
+      "cn": "创造条件/奠定基础"
     },
     {
-      "german": "Ruhe/Platz schaffen",
-      "english": "to create calm/space",
-      "chinese": "营造安静／腾出空间"
+      "de": "jdn./etw. (irgendwohin) schaffen",
+      "en": "to get sb./sth. (to somewhere)",
+      "cn": "把某人/某物弄到某处"
     },
     {
-      "german": "etw. in den Keller/ins Büro schaffen",
-      "english": "to take/carry something to the basement/office",
-      "chinese": "把某物搬到地下室／办公室"
+      "de": "jdm. zu schaffen machen (Dat)",
+      "en": "to trouble/bother sb.; to be a burden to sb.",
+      "cn": "使某人为难/困扰某人"
     },
     {
-      "german": "etw. schafft jdn.",
-      "english": "something wears someone out",
-      "chinese": "某事使某人筋疲力尽"
+      "de": "Abhilfe schaffen",
+      "en": "to provide a remedy",
+      "cn": "提供补救/解决办法"
     },
     {
-      "german": "hart schaffen (regional)",
-      "english": "to work hard (regional)",
-      "chinese": "拼命工作（地区性）"
+      "de": "geschafft sein (ugs.)",
+      "en": "to be exhausted (colloquial)",
+      "cn": "精疲力尽（口语）"
     }
   ],
   "related_words": [
     {
-      "german": "bewältigen",
-      "english": "to cope with; to manage; to overcome",
-      "chinese": "应对；办到；克服"
+      "de": "bewältigen",
+      "en": "to cope with; to overcome; to manage",
+      "cn": "应对；克服；完成"
     },
     {
-      "german": "hinkriegen",
-      "english": "to manage; to pull off (colloquial)",
-      "chinese": "搞定；办成（口语）"
+      "de": "hinbekommen",
+      "en": "to manage to do; to get done",
+      "cn": "设法做成；搞定"
     },
     {
-      "german": "erledigen",
-      "english": "to get something done; to take care of",
-      "chinese": "办妥；完成"
+      "de": "erschaffen",
+      "en": "to create (esp. divine/artistic)",
+      "cn": "创造（尤指神/艺术）"
     },
     {
-      "german": "scheitern",
-      "english": "to fail",
-      "chinese": "失败"
+      "de": "kreieren",
+      "en": "to create; to design",
+      "cn": "创造；设计"
     },
     {
-      "german": "versagen",
-      "english": "to fail; to break down",
-      "chinese": "失败；失灵"
+      "de": "herstellen",
+      "en": "to produce; to manufacture",
+      "cn": "生产；制造"
     },
     {
-      "german": "misslingen",
-      "english": "to be unsuccessful; to fail",
-      "chinese": "未成功；失败"
+      "de": "scheitern",
+      "en": "to fail",
+      "cn": "失败"
     },
     {
-      "german": "arbeiten",
-      "english": "to work",
-      "chinese": "工作"
+      "de": "misslingen",
+      "en": "to fail; to be unsuccessful",
+      "cn": "失败；未成功"
     },
     {
-      "german": "erschaffen",
-      "english": "to create",
-      "chinese": "创造"
+      "de": "zerstören",
+      "en": "to destroy",
+      "cn": "破坏；毁灭"
     },
     {
-      "german": "kreieren",
-      "english": "to create; to design",
-      "chinese": "创造；设计"
+      "de": "Schaffung",
+      "en": "creation; establishment (noun)",
+      "cn": "创造；设立（名词）"
     }
   ]
 }

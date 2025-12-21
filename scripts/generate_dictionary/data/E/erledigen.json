@@ -1,170 +1,195 @@
 {
-  "german": "erledigen",
+  "de": "erledigen",
   "part_of_speech": "Verb",
   "gender": null,
   "is_separable": false,
+  "summary": {
+    "en": "Verb. To do/complete tasks; settle matters; refl.: be resolved; colloq.: finish off/exhaust someone. Takes accusative; inseparable er- prefix.",
+    "cn": "动词：完成/处理任务；解决事务；反身：自行解决；口语：干掉/累垮某人。支配第四格；er-前缀不可分。"
+  },
   "meanings": [
     {
-      "english": "to deal with; to complete; to take care of (a task, matter, errand)",
-      "chinese": "完成；处理；办妥（任务、事务、差事）",
+      "en": "to do, carry out, or complete tasks/errands/work",
+      "cn": "做、执行或完成任务/差事/工作",
       "examples": [
         {
-          "german": "Ich muss noch ein paar Dinge erledigen.",
-          "english": "I still have a few things to take care of.",
-          "chinese": "我还得处理几件事。"
+          "de": "Ich muss noch ein paar E-Mails erledigen.",
+          "en": "I still have to take care of a few emails.",
+          "cn": "我还得处理几封邮件。"
         },
         {
-          "german": "Kannst du das für mich erledigen?",
-          "english": "Could you take care of that for me?",
-          "chinese": "你能帮我把这件事办一下吗？"
+          "de": "Sie hat die Aufgabe fristgerecht erledigt.",
+          "en": "She completed the task on time.",
+          "cn": "她按时完成了任务。"
         },
         {
-          "german": "Wir haben alles erledigt.",
-          "english": "We got everything done.",
-          "chinese": "我们把一切都办完了。"
+          "de": "Kannst du das schnell erledigen?",
+          "en": "Can you take care of that quickly?",
+          "cn": "你能快速把这事办了吗？"
         }
       ]
     },
     {
-      "english": "(reflexive) to resolve itself; to be settled; to become unnecessary",
-      "chinese": "（反身）自行解决；了结；不再需要处理",
+      "en": "to settle/resolve a matter; handle formalities/affairs",
+      "cn": "了结/解决一件事；办理手续/事务",
       "examples": [
         {
-          "german": "Das Problem hat sich erledigt.",
-          "english": "The problem resolved itself.",
-          "chinese": "问题已自行解决。"
+          "de": "Wir müssen zuerst die Formalitäten erledigen.",
+          "en": "We need to handle the formalities first.",
+          "cn": "我们得先把手续办好。"
         },
         {
-          "german": "Damit hat sich die Sache erledigt.",
-          "english": "That settles the matter.",
-          "chinese": "这样一来事情就算了结了。"
+          "de": "Die Sache ist erledigt.",
+          "en": "The matter is settled.",
+          "cn": "这件事已解决。"
         },
         {
-          "german": "Der Antrag hat sich erledigt, weil die Frist abgelaufen ist.",
-          "english": "The application became irrelevant because the deadline expired.",
-          "chinese": "申请因期限已过而自动作废。"
+          "de": "Er erledigte den Fall mit einem Anruf.",
+          "en": "He settled the case with one phone call.",
+          "cn": "他打了一个电话就把这事解决了。"
         }
       ]
     },
     {
-      "english": "to finish off; to wear out; to ruin (sb.'s reputation/career) (colloquial)",
-      "chinese": "干掉；打垮；使筋疲力尽；毁掉（名誉/前途）（口语）",
+      "en": "sich erledigen: to be resolved or become unnecessary (take care of itself)",
+      "cn": "sich erledigen：自行解决/变得不再需要",
       "examples": [
         {
-          "german": "Die Hitze hat mich erledigt.",
-          "english": "The heat wore me out.",
-          "chinese": "炎热把我累垮了。"
+          "de": "Das Problem hat sich erledigt.",
+          "en": "The problem resolved itself.",
+          "cn": "问题已经自行解决了。"
         },
         {
-          "german": "Der Skandal hat den Politiker erledigt.",
-          "english": "The scandal ruined the politician.",
-          "chinese": "丑闻毁了这位政客。"
+          "de": "Es erledigt sich von selbst.",
+          "en": "It takes care of itself.",
+          "cn": "它会自然而然解决。"
         },
         {
-          "german": "Im Finale hat die Mannschaft den Gegner erledigt.",
-          "english": "In the final, the team finished off the opponent.",
-          "chinese": "决赛中球队把对手打垮了。"
+          "de": "Der Antrag hat sich erledigt, da wir einen anderen Weg gefunden haben.",
+          "en": "The request is no longer necessary since we found another way.",
+          "cn": "我们找到别的办法了，这个申请就不必了。"
+        }
+      ]
+    },
+    {
+      "en": "colloq.: to finish off/kill; to wear someone out; to defeat decisively",
+      "cn": "口语：干掉/杀死；使筋疲力尽；彻底击败",
+      "examples": [
+        {
+          "de": "Der Lauf hat mich erledigt.",
+          "en": "The run wiped me out.",
+          "cn": "这次跑步把我累垮了。"
+        },
+        {
+          "de": "Der Boxer hat seinen Gegner in der dritten Runde erledigt.",
+          "en": "The boxer finished off his opponent in the third round.",
+          "cn": "拳手在第三回合解决了对手。"
+        },
+        {
+          "de": "Diese Hitze erledigt mich.",
+          "en": "This heat is killing me.",
+          "cn": "这酷热把我折腾坏了。"
         }
       ]
     }
   ],
   "collocations": [
     {
-      "german": "eine Aufgabe erledigen",
-      "english": "to complete a task",
-      "chinese": "完成一项任务"
+      "de": "eine Aufgabe erledigen",
+      "en": "to complete a task",
+      "cn": "完成一项任务"
     },
     {
-      "german": "etwas für jemanden erledigen",
-      "english": "to take care of something for someone",
-      "chinese": "为某人代办/处理某事"
+      "de": "die Arbeit erledigen",
+      "en": "to get the work done",
+      "cn": "把工作完成"
     },
     {
-      "german": "den Einkauf erledigen",
-      "english": "to do the shopping",
-      "chinese": "买好菜/把采购办完"
+      "de": "Besorgungen erledigen",
+      "en": "to run errands",
+      "cn": "跑腿办事"
     },
     {
-      "german": "E-Mails/Briefe erledigen",
-      "english": "to deal with emails/letters",
-      "chinese": "处理邮件/信件"
+      "de": "Formalitäten erledigen",
+      "en": "to take care of formalities",
+      "cn": "办理手续"
     },
     {
-      "german": "Behördengänge erledigen",
-      "english": "to take care of official errands",
-      "chinese": "办理政府/机关手续"
+      "de": "Behördengänge erledigen",
+      "en": "to deal with administrative errands",
+      "cn": "办理政府/机关事务"
     },
     {
-      "german": "Formalitäten erledigen",
-      "english": "to take care of formalities",
-      "chinese": "办理手续/完成形式程序"
+      "de": "etwas sofort erledigen",
+      "en": "to do something immediately",
+      "cn": "立即把事情办好"
     },
     {
-      "german": "die Arbeit/den Auftrag erledigen",
-      "english": "to get the work/order done",
-      "chinese": "完成工作/委托"
+      "de": "etwas nebenbei erledigen",
+      "en": "to do something on the side",
+      "cn": "顺便完成某事"
     },
     {
-      "german": "etwas schnell/nebenbei erledigen",
-      "english": "to handle something quickly/on the side",
-      "chinese": "快速/顺便处理某事"
+      "de": "etwas gründlich erledigen",
+      "en": "to do something thoroughly",
+      "cn": "把事情彻底办好"
     },
     {
-      "german": "sich erledigen (z. B. Das Problem erledigt sich.)",
-      "english": "to sort itself out; to be settled",
-      "chinese": "（问题等）自行解决；得到了结"
+      "de": "sich erledigen",
+      "en": "to resolve itself; become unnecessary",
+      "cn": "自行解决；不再需要"
     },
     {
-      "german": "jemanden (völlig) erledigen (umg.)",
-      "english": "to completely wear someone out/finish someone off (colloquial)",
-      "chinese": "把某人累垮/干掉（口语）"
+      "de": "jemanden erledigen",
+      "en": "to finish someone off (defeat/kill, colloq.)",
+      "cn": "收拾/干掉某人（口）"
     }
   ],
   "related_words": [
     {
-      "german": "ausführen",
-      "english": "to carry out; to execute",
-      "chinese": "执行；实施"
+      "de": "machen",
+      "en": "to do",
+      "cn": "做"
     },
     {
-      "german": "bewältigen",
-      "english": "to cope with; to handle",
-      "chinese": "应对；处理；克服"
+      "de": "ausführen",
+      "en": "to carry out; execute",
+      "cn": "执行；实施"
     },
     {
-      "german": "abwickeln",
-      "english": "to process; to handle",
-      "chinese": "办理；处理"
+      "de": "bewältigen",
+      "en": "to cope with; handle",
+      "cn": "应对；处理"
     },
     {
-      "german": "erledigt",
-      "english": "done; exhausted (adj.)",
-      "chinese": "完成的；筋疲力尽的（形容词）"
+      "de": "beginnen",
+      "en": "to begin",
+      "cn": "开始"
     },
     {
-      "german": "Erledigung",
-      "english": "completion; handling",
-      "chinese": "完成；处理"
+      "de": "verschieben",
+      "en": "to postpone",
+      "cn": "推迟"
     },
     {
-      "german": "aufschieben",
-      "english": "to postpone; to defer",
-      "chinese": "推迟；拖延"
+      "de": "unterlassen",
+      "en": "to refrain from; omit",
+      "cn": "不做；克制"
     },
     {
-      "german": "verschieben",
-      "english": "to postpone; to reschedule",
-      "chinese": "推迟；改期"
+      "de": "beenden",
+      "en": "to finish; end",
+      "cn": "结束"
     },
     {
-      "german": "klären",
-      "english": "to clarify; to resolve",
-      "chinese": "澄清；解决"
+      "de": "regeln",
+      "en": "to settle; sort out",
+      "cn": "解决；处理"
     },
     {
-      "german": "fertigstellen",
-      "english": "to complete; to finish building",
-      "chinese": "完成；建成"
+      "de": "klären",
+      "en": "to clarify; resolve",
+      "cn": "澄清；解决"
     }
   ]
 }

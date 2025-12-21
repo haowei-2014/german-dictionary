@@ -1,176 +1,201 @@
 {
-  "german": "Arbeit",
+  "de": "Arbeit",
   "part_of_speech": "Nomen",
   "gender": "die",
   "is_separable": null,
+  "summary": {
+    "en": "Feminine noun. Work as activity/employment; a task/assignment or school test; an academic paper; in physics: work (J). Often in set phrases (zur/bei der Arbeit). Plural: Arbeiten.",
+    "cn": "阴性名词。指工作/职业、任务/作业或测验、学术论文；物理学“功”。常见固定搭配（zur/bei der Arbeit）。复数：Arbeiten。"
+  },
   "meanings": [
     {
-      "english": "work; job; employment; the tasks you do for your job or livelihood",
-      "chinese": "工作；职业；（工作的）事务",
+      "en": "work; employment; the act of working, one’s job or tasks",
+      "cn": "工作；职业；工作的活动与任务",
       "examples": [
         {
-          "german": "Ich gehe heute früh zur Arbeit.",
-          "english": "I’m going to work early today.",
-          "chinese": "我今天一早去上班。"
+          "de": "Ich habe heute viel Arbeit.",
+          "en": "I have a lot of work today.",
+          "cn": "我今天有很多工作。"
         },
         {
-          "german": "Ich habe heute viel Arbeit zu erledigen.",
-          "english": "I have a lot of work to get done today.",
-          "chinese": "我今天有很多工作要完成。"
+          "de": "Sie geht jeden Tag zur Arbeit.",
+          "en": "She goes to work every day.",
+          "cn": "她每天去上班。"
         },
         {
-          "german": "Nach dem Studium fand sie schnell Arbeit.",
-          "english": "After graduating, she quickly found work.",
-          "chinese": "毕业后她很快找到了工作。"
+          "de": "Bei der Arbeit telefoniere ich selten.",
+          "en": "I rarely make calls at work.",
+          "cn": "我在上班时很少打电话。"
         }
       ]
     },
     {
-      "english": "a piece of work; an academic/artistic work or paper",
-      "chinese": "（一件）作品；论文；著作",
+      "en": "a piece of work; task/assignment; in schools: test/exam",
+      "cn": "一项工作；任务/作业；（学校）测验/考试",
       "examples": [
         {
-          "german": "Sie schreibt eine wissenschaftliche Arbeit über Klimapolitik.",
-          "english": "She is writing an academic paper on climate policy.",
-          "chinese": "她正在写一篇关于气候政策的学术论文。"
+          "de": "Die schriftliche Arbeit ist morgen abzugeben.",
+          "en": "The written assignment is due tomorrow.",
+          "cn": "书面作业明天交。"
         },
         {
-          "german": "Seine Arbeit wurde mit einem Preis ausgezeichnet.",
-          "english": "His work was awarded a prize.",
-          "chinese": "他的作品获得了奖项。"
+          "de": "Er hat eine hervorragende Arbeit abgeliefert.",
+          "en": "He delivered excellent work.",
+          "cn": "他交出了一份出色的作品/工作。"
+        },
+        {
+          "de": "Morgen schreiben wir eine Arbeit.",
+          "en": "We’re taking a test tomorrow.",
+          "cn": "我们明天要考试。"
         }
       ]
     },
     {
-      "english": "effort; labor; the exertion required to achieve something",
-      "chinese": "努力；劳作；为达成目标所需的付出",
+      "en": "employment, a job position (countable sense)",
+      "cn": "就业、工作岗位（可数义）",
       "examples": [
         {
-          "german": "Das kostet viel Arbeit.",
-          "english": "That takes a lot of work.",
-          "chinese": "那需要很多功夫。"
+          "de": "Er hat endlich Arbeit gefunden.",
+          "en": "He finally found a job.",
+          "cn": "他终于找到工作了。"
         },
         {
-          "german": "Gute Arbeit!",
-          "english": "Good job!",
-          "chinese": "干得好！"
+          "de": "Sie sucht Arbeit als Ingenieurin.",
+          "en": "She is looking for work as an engineer.",
+          "cn": "她在找工程师的工作。"
         }
       ]
     },
     {
-      "english": "physics: work (force times distance), measured in joules",
-      "chinese": "物理学：功（力乘以位移），单位焦耳",
+      "en": "academic paper/thesis (scholarly work)",
+      "cn": "学术论文/毕业论文",
       "examples": [
         {
-          "german": "In der Physik ist Arbeit Kraft mal Weg.",
-          "english": "In physics, work is force times distance.",
-          "chinese": "在物理学中，功等于力乘以位移。"
+          "de": "Ihre Arbeit über den Klimawandel wurde ausgezeichnet.",
+          "en": "Her paper on climate change was awarded.",
+          "cn": "她的气候变化论文获奖。"
         },
         {
-          "german": "Die verrichtete Arbeit beträgt 20 Joule.",
-          "english": "The work done amounts to 20 joules.",
-          "chinese": "所做的功为20焦耳。"
+          "de": "Ich muss meine Arbeit noch überarbeiten.",
+          "en": "I still have to revise my thesis/paper.",
+          "cn": "我还得修改我的论文。"
+        }
+      ]
+    },
+    {
+      "en": "physics: work (energy transferred by a force)",
+      "cn": "物理：功（力所做的能量传递）",
+      "examples": [
+        {
+          "de": "In der Physik bezeichnet Arbeit die Energieübertragung durch eine Kraft.",
+          "en": "In physics, work is the energy transferred by a force.",
+          "cn": "在物理中，“功”指由力造成的能量转移。"
+        },
+        {
+          "de": "Die Einheit der Arbeit ist das Joule.",
+          "en": "The unit of work is the joule.",
+          "cn": "功的单位是焦耳。"
         }
       ]
     }
   ],
   "collocations": [
     {
-      "german": "zur Arbeit gehen",
-      "english": "to go to work",
-      "chinese": "去上班"
+      "de": "zur Arbeit gehen/fahren",
+      "en": "to go to work",
+      "cn": "去上班"
     },
     {
-      "german": "bei der Arbeit",
-      "english": "at work; while working",
-      "chinese": "在工作时；在单位"
+      "de": "bei der Arbeit",
+      "en": "at work (while working)",
+      "cn": "在工作中／上班时"
     },
     {
-      "german": "Arbeit finden",
-      "english": "to find work",
-      "chinese": "找到工作"
+      "de": "an der Arbeit sein",
+      "en": "to be at work",
+      "cn": "在上班／在工作中"
     },
     {
-      "german": "Arbeit suchen",
-      "english": "to look for work",
-      "chinese": "找工作"
+      "de": "mit der Arbeit beginnen/anfangen",
+      "en": "to start work",
+      "cn": "开始工作"
     },
     {
-      "german": "Arbeit erledigen",
-      "english": "to get/finish work; to complete tasks",
-      "chinese": "完成工作；把事情办完"
+      "de": "die Arbeit erledigen",
+      "en": "to get the work done",
+      "cn": "完成工作"
     },
     {
-      "german": "Arbeit leisten",
-      "english": "to perform/do work; to make a contribution",
-      "chinese": "进行工作；作出贡献"
+      "de": "Arbeit suchen",
+      "en": "to look for work",
+      "cn": "找工作"
     },
     {
-      "german": "mit der Arbeit beginnen",
-      "english": "to start work",
-      "chinese": "开始工作"
+      "de": "Arbeit finden",
+      "en": "to find work",
+      "cn": "找到工作"
     },
     {
-      "german": "an einer Arbeit schreiben",
-      "english": "to work on/write a paper/work",
-      "chinese": "撰写一篇论文／作品"
+      "de": "die Arbeit aufnehmen",
+      "en": "to take up/start work (resume)",
+      "cn": "着手／恢复工作"
     },
     {
-      "german": "Arbeit abgeben",
-      "english": "to hand in a paper/assignment",
-      "chinese": "交作业／交论文"
+      "de": "die Arbeit niederlegen",
+      "en": "to stop work, go on strike",
+      "cn": "停止工作，罢工"
     },
     {
-      "german": "in Arbeit sein",
-      "english": "to be in progress",
-      "chinese": "在进行中"
+      "de": "eine Arbeit abgeben",
+      "en": "to hand in an assignment/paper",
+      "cn": "交作业／交论文"
     }
   ],
   "related_words": [
     {
-      "german": "arbeiten",
-      "english": "to work",
-      "chinese": "工作"
+      "de": "Beruf",
+      "en": "profession, occupation",
+      "cn": "职业"
     },
     {
-      "german": "Beruf",
-      "english": "profession; occupation",
-      "chinese": "职业"
+      "de": "Tätigkeit",
+      "en": "activity, occupation",
+      "cn": "活动；职业"
     },
     {
-      "german": "Job",
-      "english": "job (often casual/temporary)",
-      "chinese": "工作（多指兼职／临时）"
+      "de": "Job",
+      "en": "job (informal)",
+      "cn": "工作（口语）"
     },
     {
-      "german": "Tätigkeit",
-      "english": "activity; occupation",
-      "chinese": "活动；职业"
+      "de": "Freizeit",
+      "en": "free time, leisure",
+      "cn": "空闲时间"
     },
     {
-      "german": "Beschäftigung",
-      "english": "employment; occupation",
-      "chinese": "就业；工作；事务"
+      "de": "Urlaub",
+      "en": "vacation, leave",
+      "cn": "假期；休假"
     },
     {
-      "german": "Aufgabe",
-      "english": "task; assignment",
-      "chinese": "任务；作业"
+      "de": "Muße",
+      "en": "leisure, unhurried time",
+      "cn": "闲暇；从容"
     },
     {
-      "german": "Werk",
-      "english": "work; opus; creation (artistic/technical)",
-      "chinese": "作品；著作；成品"
+      "de": "arbeiten",
+      "en": "to work",
+      "cn": "工作（动词）"
     },
     {
-      "german": "Freizeit",
-      "english": "leisure; free time",
-      "chinese": "空闲时间；闲暇"
+      "de": "Arbeitsplatz",
+      "en": "workplace, job",
+      "cn": "工作岗位；工作场所"
     },
     {
-      "german": "Urlaub",
-      "english": "vacation; leave",
-      "chinese": "假期；休假"
+      "de": "Arbeitnehmer",
+      "en": "employee",
+      "cn": "雇员；员工"
     }
   ]
 }

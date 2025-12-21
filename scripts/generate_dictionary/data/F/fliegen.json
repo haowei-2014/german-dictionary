@@ -1,171 +1,211 @@
 {
-  "german": "fliegen",
+  "de": "fliegen",
   "part_of_speech": "Verb",
   "gender": null,
   "is_separable": false,
+  "summary": {
+    "en": "Verb. Move through air; travel by plane; pilot an aircraft. Colloq.: be expelled/fail (aus/durch). Strong: flog; Perfekt: ist geflogen (intrans.), hat geflogen (trans.).",
+    "cn": "动词。表示飞行、乘飞机、驾驶飞机；口语指被开除/考试挂（aus/durch）。强变化：flog；完成时：不及物用sein，及物用haben。"
+  },
   "meanings": [
     {
-      "english": "to fly; to travel through the air (persons, animals, aircraft). Perfekt usually with “sein”.",
-      "chinese": "飞；乘飞机飞行（人、动物、飞机）。完成时通常用“sein”。",
+      "en": "to fly, move through the air (birds, planes, objects)",
+      "cn": "飞行；在空中移动（鸟、飞机、物体）",
       "examples": [
         {
-          "german": "Vögel fliegen am Himmel.",
-          "english": "Birds are flying in the sky.",
-          "chinese": "鸟儿在天空中飞。"
+          "de": "Der Vogel fliegt über den See.",
+          "en": "The bird flies over the lake.",
+          "cn": "那只鸟飞过湖面。"
         },
         {
-          "german": "Wir sind gestern nach Berlin geflogen.",
-          "english": "We flew to Berlin yesterday.",
-          "chinese": "我们昨天飞去了柏林。"
+          "de": "Das Flugzeug fliegt sehr hoch.",
+          "en": "The plane is flying very high.",
+          "cn": "飞机飞得很高。"
         },
         {
-          "german": "Das Flugzeug fliegt über die Stadt.",
-          "english": "The plane is flying over the city.",
-          "chinese": "飞机正飞过这座城市。"
+          "de": "Der Ball flog ins Tor.",
+          "en": "The ball flew into the goal.",
+          "cn": "球飞进了球门。"
         }
       ]
     },
     {
-      "english": "to pilot/control an aircraft (transitive). Perfekt with “haben”.",
-      "chinese": "驾驶（飞机）（及物）。完成时用“haben”。",
+      "en": "to travel by plane (go somewhere by air)",
+      "cn": "乘飞机旅行（飞往某地）",
       "examples": [
         {
-          "german": "Sie fliegt seit zehn Jahren Passagiermaschinen.",
-          "english": "She has been flying passenger planes for ten years.",
-          "chinese": "她驾驶客机已有十年。"
+          "de": "Ich fliege morgen nach Berlin.",
+          "en": "I’m flying to Berlin tomorrow.",
+          "cn": "我明天飞往柏林。"
         },
         {
-          "german": "Der Pilot hat die neue Route geflogen.",
-          "english": "The pilot flew the new route.",
-          "chinese": "飞行员飞了新航线。"
+          "de": "Wir fliegen über Paris nach Rom.",
+          "en": "We fly via Paris to Rome.",
+          "cn": "我们经巴黎飞往罗马。"
         },
         {
-          "german": "Kannst du die Cessna fliegen?",
-          "english": "Can you fly the Cessna?",
-          "chinese": "你会驾驶这架塞斯纳吗？"
+          "de": "Sie fliegt oft beruflich.",
+          "en": "She often flies for work.",
+          "cn": "她经常因公坐飞机出差。"
         }
       ]
     },
     {
-      "english": "to get kicked out; to be expelled; to flunk (colloquial, often with “aus” or “durch”).",
-      "chinese": "被赶出去；被开除；考试不及格（口语，常与“aus”或“durch”连用）。",
+      "en": "to fly/pilot an aircraft (operate)",
+      "cn": "驾驶（飞机）",
       "examples": [
         {
-          "german": "Er ist aus der Schule geflogen.",
-          "english": "He got expelled from school.",
-          "chinese": "他被学校开除了。"
+          "de": "Er fliegt die Maschine seit zehn Jahren.",
+          "en": "He has been flying the aircraft for ten years.",
+          "cn": "他驾驶这架飞机已有十年。"
         },
         {
-          "german": "Ich bin durch die Prüfung geflogen.",
-          "english": "I flunked the exam.",
-          "chinese": "我考试挂了。"
+          "de": "Sie fliegt Helikopter.",
+          "en": "She flies helicopters.",
+          "cn": "她驾驶直升机。"
         },
         {
-          "german": "Sie flog aus dem Verein, weil sie nicht zahlte.",
-          "english": "She was kicked out of the club because she didn’t pay.",
-          "chinese": "她因未缴费被俱乐部开除。"
+          "de": "Kannst du ein Segelflugzeug fliegen?",
+          "en": "Can you fly a glider?",
+          "cn": "你会驾驶滑翔机吗？"
         }
       ]
     },
     {
-      "english": "to move very fast; time passes quickly (figurative).",
-      "chinese": "飞快移动；（比喻）时间飞逝。",
+      "en": "colloquial: to be expelled/kicked out; to fail (an exam)",
+      "cn": "口语：被开除、被赶走；考试挂科",
       "examples": [
         {
-          "german": "Die Zeit fliegt, wenn man Spaß hat.",
-          "english": "Time flies when you’re having fun.",
-          "chinese": "当你玩得开心时，时间飞逝。"
+          "de": "Er ist aus der Schule geflogen.",
+          "en": "He got kicked out of school.",
+          "cn": "他被学校开除了。"
         },
         {
-          "german": "Die Stunden sind nur so geflogen.",
-          "english": "The hours just flew by.",
-          "chinese": "几个小时一晃就过去了。"
+          "de": "Sie ist bei der Prüfung geflogen.",
+          "en": "She failed the exam.",
+          "cn": "她考试被刷了。"
+        },
+        {
+          "de": "Nach dem Skandal flog er aus dem Verein.",
+          "en": "After the scandal, he was expelled from the club.",
+          "cn": "丑闻后他被俱乐部除名。"
+        }
+      ]
+    },
+    {
+      "en": "figurative: time passes quickly",
+      "cn": "比喻：时间飞逝",
+      "examples": [
+        {
+          "de": "Die Zeit fliegt, wenn man Spaß hat.",
+          "en": "Time flies when you’re having fun.",
+          "cn": "开心时光飞逝。"
+        },
+        {
+          "de": "Das Wochenende flog vorbei.",
+          "en": "The weekend flew by.",
+          "cn": "周末转瞬即逝。"
         }
       ]
     }
   ],
   "collocations": [
     {
-      "german": "nach Berlin/Spanien fliegen",
-      "english": "to fly to Berlin/Spain",
-      "chinese": "飞往柏林/西班牙"
+      "de": "nach Berlin fliegen",
+      "en": "to fly to Berlin",
+      "cn": "飞往柏林"
     },
     {
-      "german": "in den Urlaub fliegen",
-      "english": "to fly on vacation",
-      "chinese": "飞去度假"
+      "de": "in die USA fliegen",
+      "en": "to fly to the USA",
+      "cn": "飞往美国"
     },
     {
-      "german": "mit dem Flugzeug fliegen",
-      "english": "to travel by plane",
-      "chinese": "坐飞机出行"
+      "de": "mit dem Flugzeug fliegen",
+      "en": "to travel by plane",
+      "cn": "乘飞机"
     },
     {
-      "german": "über die Stadt/das Meer fliegen",
-      "english": "to fly over the city/the sea",
-      "chinese": "飞越城市/大海"
+      "de": "über den Atlantik fliegen",
+      "en": "to fly over the Atlantic",
+      "cn": "飞越大西洋"
     },
     {
-      "german": "eine Maschine/ein Flugzeug fliegen",
-      "english": "to fly a plane",
-      "chinese": "驾驶飞机"
+      "de": "ein Flugzeug fliegen",
+      "en": "to fly/pilot a plane",
+      "cn": "驾驶飞机"
     },
     {
-      "german": "eine Route/eine Strecke fliegen",
-      "english": "to fly a route/distance",
-      "chinese": "飞某条航线/路程"
+      "de": "aus der Schule fliegen",
+      "en": "to be expelled from school",
+      "cn": "被学校开除"
     },
     {
-      "german": "aus der Schule/Uni/der Firma fliegen",
-      "english": "to get kicked out of school/university/the company",
-      "chinese": "被学校/大学/公司开除"
+      "de": "durch die Prüfung fliegen",
+      "en": "to fail the exam",
+      "cn": "考试被刷"
     },
     {
-      "german": "durch die Prüfung fliegen",
-      "english": "to flunk the exam",
-      "chinese": "考试不及格"
+      "de": "hoch/tief fliegen",
+      "en": "to fly high/low",
+      "cn": "飞得高/低"
     },
     {
-      "german": "die Zeit fliegt",
-      "english": "time flies",
-      "chinese": "时间飞逝"
+      "de": "in der ersten Klasse fliegen",
+      "en": "to fly first class",
+      "cn": "飞头等舱"
     },
     {
-      "german": "die Fetzen/Funken fliegen",
-      "english": "sparks fly (big argument/fight)",
-      "chinese": "火花四溅（比喻激烈争吵/冲突）"
+      "de": "nonstop fliegen",
+      "en": "to fly nonstop",
+      "cn": "直飞"
     }
   ],
   "related_words": [
     {
-      "german": "der Flug",
-      "english": "flight",
-      "chinese": "航班；飞行"
+      "de": "landen",
+      "en": "to land",
+      "cn": "着陆"
     },
     {
-      "german": "das Flugzeug",
-      "english": "airplane",
-      "chinese": "飞机"
+      "de": "abheben",
+      "en": "to take off (aircraft)",
+      "cn": "起飞"
     },
     {
-      "german": "starten",
-      "english": "to take off (aircraft)",
-      "chinese": "起飞"
+      "de": "starten",
+      "en": "to take off/start (aircraft)",
+      "cn": "起飞/启动"
     },
     {
-      "german": "landen",
-      "english": "to land",
-      "chinese": "降落"
+      "de": "gleiten",
+      "en": "to glide",
+      "cn": "滑翔"
     },
     {
-      "german": "durchfallen",
-      "english": "to fail (an exam)",
-      "chinese": "考试不及格"
+      "de": "schweben",
+      "en": "to hover/float",
+      "cn": "悬停/漂浮"
     },
     {
-      "german": "rausfliegen",
-      "english": "to get kicked out (colloquial)",
-      "chinese": "被赶出去（口语）"
+      "de": "pilotieren",
+      "en": "to pilot (an aircraft)",
+      "cn": "驾驶（飞机）"
+    },
+    {
+      "de": "rausfliegen",
+      "en": "to get kicked out",
+      "cn": "被踢出去/被开除"
+    },
+    {
+      "de": "der Flug",
+      "en": "flight",
+      "cn": "航班/飞行"
+    },
+    {
+      "de": "der Flieger",
+      "en": "airplane; pilot (colloq.)",
+      "cn": "飞机；飞行员（口语）"
     }
   ]
 }

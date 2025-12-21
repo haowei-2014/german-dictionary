@@ -1,191 +1,237 @@
 {
-  "german": "gut",
+  "de": "gut",
   "part_of_speech": "Adjektiv/Adverb",
   "gender": null,
   "is_separable": null,
+  "summary": {
+    "en": "Adjective/adverb meaning good or well: quality, satisfactory, or kind. Common: es geht jdm gut, gut für, jdm gut stehen. Also: gut + number = at least. Comparatives: besser, am besten.",
+    "cn": "形容词/副词：好；表示质量佳、满意、善良。常见：Es geht jdm gut, gut für, jdm gut stehen。gut+数字=至少。注意比较级：besser, am besten。"
+  },
   "meanings": [
     {
-      "english": "good; of high quality, suitable, positive (adjective)",
-      "chinese": "好的；高质量的；合适的；积极的（形容词）",
+      "en": "good; of good quality; satisfactory",
+      "cn": "好的；质量好；令人满意的",
       "examples": [
         {
-          "german": "Das ist eine gute Idee.",
-          "english": "That is a good idea.",
-          "chinese": "这是个好主意。"
+          "de": "Das Essen ist gut.",
+          "en": "The food is good.",
+          "cn": "食物很好。"
         },
         {
-          "german": "Er ist ein guter Freund.",
-          "english": "He is a good friend.",
-          "chinese": "他是位好朋友。"
+          "de": "Das ist eine gute Idee.",
+          "en": "That’s a good idea.",
+          "cn": "这是个好主意。"
         },
         {
-          "german": "Das Wetter ist heute gut.",
-          "english": "The weather is good today.",
-          "chinese": "今天天气很好。"
+          "de": "Die Qualität ist gut.",
+          "en": "The quality is good.",
+          "cn": "质量很好。"
         }
       ]
     },
     {
-      "english": "well (adverb: in a good way; in good health)",
-      "chinese": "好地；健康（副词）",
+      "en": "well; in a good way or condition/state",
+      "cn": "好地；状态好；情况良好",
       "examples": [
         {
-          "german": "Es geht mir gut.",
-          "english": "I am well.",
-          "chinese": "我很好。"
+          "de": "Es geht mir gut.",
+          "en": "I’m doing well.",
+          "cn": "我过得很好。"
         },
         {
-          "german": "Sie spricht gut Deutsch.",
-          "english": "She speaks German well.",
-          "chinese": "她德语说得很好。"
+          "de": "Er spricht gut Deutsch.",
+          "en": "He speaks German well.",
+          "cn": "他德语说得很好。"
         },
         {
-          "german": "Das hast du gut gemacht.",
-          "english": "You did that well.",
-          "chinese": "你做得很好。"
+          "de": "Schlaf gut!",
+          "en": "Sleep well!",
+          "cn": "睡个好觉！"
         }
       ]
     },
     {
-      "english": "good, kind, morally decent (about people/character)",
-      "chinese": "善良的；品行好的（指人/品德）",
+      "en": "kind; morally good; benevolent",
+      "cn": "善良的；道德上的善",
       "examples": [
         {
-          "german": "Er ist ein guter Mensch.",
-          "english": "He is a good person.",
-          "chinese": "他是个善良的人。"
+          "de": "Sie ist ein guter Mensch.",
+          "en": "She is a good/kind person.",
+          "cn": "她是个好人。"
         },
         {
-          "german": "Sie hat ein gutes Herz.",
-          "english": "She has a good heart.",
-          "chinese": "她心地善良。"
+          "de": "Er hat ein gutes Herz.",
+          "en": "He has a good heart.",
+          "cn": "他很善良。"
         },
         {
-          "german": "Kinder sollen gut zueinander sein.",
-          "english": "Children should be good to each other.",
-          "chinese": "孩子们应该彼此友善。"
+          "de": "Gute Taten zählen.",
+          "en": "Good deeds count.",
+          "cn": "善行很重要。"
         }
       ]
     },
     {
-      "english": "a good..., well over (before numbers/amounts)",
-      "chinese": "将近…；…多（用于数目/数量前）",
+      "en": "beneficial or suitable; good for someone/something; suits someone",
+      "cn": "有益的；适合的；对某人/某事有好处",
       "examples": [
         {
-          "german": "Wir brauchen gut zwei Stunden.",
-          "english": "We need a good two hours.",
-          "chinese": "我们需要两个多小时。"
+          "de": "Gemüse ist gut für die Gesundheit.",
+          "en": "Vegetables are good for your health.",
+          "cn": "蔬菜有益健康。"
         },
         {
-          "german": "Es waren gut 50 Leute da.",
-          "english": "There were well over 50 people there.",
-          "chinese": "那里有五十多人。"
+          "de": "Ein Spaziergang tut dir gut.",
+          "en": "A walk does you good.",
+          "cn": "散步对你有好处。"
         },
         {
-          "german": "Die Wohnung kostet gut 1.000 Euro.",
-          "english": "The apartment costs a good 1,000 euros.",
-          "chinese": "这套公寓要一千多欧元。"
+          "de": "Das Kleid steht dir gut.",
+          "en": "The dress suits you well.",
+          "cn": "这条裙子很适合你。"
+        }
+      ]
+    },
+    {
+      "en": "at least; easily (with numbers/amounts)",
+      "cn": "足有；至少（用于数量）",
+      "examples": [
+        {
+          "de": "Das dauert gut zwei Stunden.",
+          "en": "That takes a good two hours.",
+          "cn": "这要足足两小时。"
+        },
+        {
+          "de": "Es waren gut hundert Leute da.",
+          "en": "There were a good hundred people there.",
+          "cn": "那里足有一百来人。"
+        },
+        {
+          "de": "Wir sind gut 10 Kilometer gelaufen.",
+          "en": "We walked a good 10 kilometers.",
+          "cn": "我们走了至少10公里。"
+        }
+      ]
+    },
+    {
+      "en": "OK; fine; acceptable; expressing agreement",
+      "cn": "可以；行；表示同意/满意",
+      "examples": [
+        {
+          "de": "Klingt gut.",
+          "en": "Sounds good.",
+          "cn": "听起来不错。"
+        },
+        {
+          "de": "Ist es so gut?",
+          "en": "Is it fine like this?",
+          "cn": "这样可以吗？"
+        },
+        {
+          "de": "Alles gut?",
+          "en": "Everything okay?",
+          "cn": "一切都好吗？"
         }
       ]
     }
   ],
   "collocations": [
     {
-      "german": "es geht jdm gut",
-      "english": "someone is doing well/feels fine",
-      "chinese": "某人过得好／感觉良好"
+      "de": "es geht jdm gut",
+      "en": "sb is well/doing fine",
+      "cn": "某人过得好／身体好"
     },
     {
-      "german": "etw. gut finden (+ Akk.)",
-      "english": "to like/approve of something",
-      "chinese": "觉得某事好／赞同某事"
+      "de": "gut für + Akk",
+      "en": "good for sth/sb",
+      "cn": "对…有益"
     },
     {
-      "german": "gut sein in etw. (Dat.)",
-      "english": "to be good at something",
-      "chinese": "擅长某事"
+      "de": "jdm gut tun",
+      "en": "be good for sb; do sb good",
+      "cn": "对某人有好处"
     },
     {
-      "german": "gut aussehen",
-      "english": "to look good",
-      "chinese": "看起来好／好看"
+      "de": "jdm gut stehen",
+      "en": "suit sb (clothes, color)",
+      "cn": "（衣服/颜色）适合某人"
     },
     {
-      "german": "gut schmecken",
-      "english": "to taste good",
-      "chinese": "味道好／好吃"
+      "de": "gut aussehen",
+      "en": "look good/attractive",
+      "cn": "看起来好／好看"
     },
     {
-      "german": "jdm gut tun",
-      "english": "to do someone good; be good for someone",
-      "chinese": "对某人有益／对某人好"
+      "de": "gut schmecken",
+      "en": "taste good",
+      "cn": "味道好"
     },
     {
-      "german": "gut ankommen",
-      "english": "to be well received",
-      "chinese": "很受欢迎／反响好"
+      "de": "gut funktionieren",
+      "en": "work well",
+      "cn": "运作良好"
     },
     {
-      "german": "jdm gut passen",
-      "english": "to suit/fit someone well",
-      "chinese": "很适合某人／很合身合适"
+      "de": "gut in + Dativ",
+      "en": "be good at (a subject/field)",
+      "cn": "擅长（某科/领域）"
     },
     {
-      "german": "gut gelaunt sein",
-      "english": "to be in a good mood",
-      "chinese": "心情好"
+      "de": "gut drauf sein",
+      "en": "be in a good mood",
+      "cn": "心情好"
     },
     {
-      "german": "gut drauf sein (ugs.)",
-      "english": "to be in a good mood (colloquial)",
-      "chinese": "心情棒（口语）"
+      "de": "gut möglich (sein)",
+      "en": "quite possible",
+      "cn": "很可能"
     }
   ],
   "related_words": [
     {
-      "german": "toll",
-      "english": "great; fantastic",
-      "chinese": "棒的；极好的"
+      "de": "toll",
+      "en": "great, fantastic",
+      "cn": "棒的，极好的"
     },
     {
-      "german": "prima",
-      "english": "great; first-rate",
-      "chinese": "极好的；一流的"
+      "de": "prima",
+      "en": "great, excellent",
+      "cn": "很好，极佳"
     },
     {
-      "german": "nett",
-      "english": "nice; kind",
-      "chinese": "友善的；和蔼的"
+      "de": "hervorragend",
+      "en": "excellent, outstanding",
+      "cn": "出色的"
     },
     {
-      "german": "schlecht",
-      "english": "bad; poor",
-      "chinese": "坏的；差的"
+      "de": "schlecht",
+      "en": "bad, poor",
+      "cn": "差的，不好的"
     },
     {
-      "german": "böse",
-      "english": "evil; wicked; angry",
-      "chinese": "邪恶的；生气的"
+      "de": "böse",
+      "en": "evil; angry",
+      "cn": "邪恶的；生气的"
     },
     {
-      "german": "mies",
-      "english": "awful; lousy",
-      "chinese": "糟糕的；差劲的"
+      "de": "miserabel",
+      "en": "miserable, terrible",
+      "cn": "糟糕的"
     },
     {
-      "german": "besser",
-      "english": "better (comparative of gut)",
-      "chinese": "更好（gut 的比较级）"
+      "de": "besser",
+      "en": "better (comparative)",
+      "cn": "更好（比较级）"
     },
     {
-      "german": "am besten",
-      "english": "best (superlative of gut)",
-      "chinese": "最好（gut 的最高级）"
+      "de": "am besten",
+      "en": "best (superlative)",
+      "cn": "最好（最高级）"
     },
     {
-      "german": "wohl",
-      "english": "well; probably (adverb, often synonym of 'well')",
-      "chinese": "好地；大概（副词，常与“well”同义）"
+      "de": "das Gute",
+      "en": "the good (abstract)",
+      "cn": "善；美好之事"
     }
   ]
 }

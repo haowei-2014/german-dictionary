@@ -42,19 +42,19 @@ def is_corrupted(result: WordEntry) -> bool:
         return any(artifact in text for artifact in json_artifacts)
 
     for meaning in result.meanings:
-        if check_text(meaning.english) or check_text(meaning.chinese):
+        if check_text(meaning.en) or check_text(meaning.cn):
             return True
         for example in meaning.examples:
-            if check_text(example.german) or check_text(example.english) or check_text(example.chinese):
+            if check_text(example.de) or check_text(example.en) or check_text(example.cn):
                 return True
 
     for collocation in result.collocations:
-        if check_text(collocation.german) or check_text(collocation.english) or check_text(collocation.chinese):
+        if check_text(collocation.de) or check_text(collocation.en) or check_text(collocation.cn):
             return True
 
     if result.related_words:
         for word in result.related_words:
-            if check_text(word.german) or check_text(word.english) or check_text(word.chinese):
+            if check_text(word.de) or check_text(word.en) or check_text(word.cn):
                 return True
 
     return False

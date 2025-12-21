@@ -1,213 +1,237 @@
 {
-  "german": "machen",
+  "de": "machen",
   "part_of_speech": "Verb",
   "gender": null,
   "is_separable": false,
+  "summary": {
+    "en": "Core verb: to do/make: perform actions, create/prepare, cause/render; also 'amount to' (prices). Reflexive: sich an die Arbeit/auf den Weg machen. Note: es macht nichts; jdn. zu etw. machen.",
+    "cn": "常用动词：做/制造。表示执行、制作/准备、使变成；也指“金额为”。反身：sich an die Arbeit/auf den Weg machen。注意：es macht nichts；jdn. zu etw. machen。"
+  },
   "meanings": [
     {
-      "english": "to do; to make (perform an action; produce or prepare)",
-      "chinese": "做；制作；准备",
+      "en": "to do; carry out, perform, handle an activity or task",
+      "cn": "做；执行、进行、处理某事",
       "examples": [
         {
-          "german": "Ich mache meine Hausaufgaben.",
-          "english": "I do my homework.",
-          "chinese": "我做作业。"
+          "de": "Was machst du am Wochenende?",
+          "en": "What are you doing this weekend?",
+          "cn": "你周末做什么？"
         },
         {
-          "german": "Kannst du Kaffee machen?",
-          "english": "Can you make coffee?",
-          "chinese": "你能冲咖啡吗？"
+          "de": "Das mache ich später.",
+          "en": "I'll do that later.",
+          "cn": "我待会儿做那个。"
         },
         {
-          "german": "Er macht viel Lärm.",
-          "english": "He makes a lot of noise.",
-          "chinese": "他制造很多噪音。"
+          "de": "Er hat die Hausaufgaben gemacht.",
+          "en": "He did his homework.",
+          "cn": "他做了作业。"
         }
       ]
     },
     {
-      "english": "to amount to; to come to (price, total, distance)",
-      "chinese": "合计；总共（指价格、总量、距离等）",
+      "en": "to make; produce, prepare, create something",
+      "cn": "制造；制作、准备、创造某物",
       "examples": [
         {
-          "german": "Das macht 5 Euro.",
-          "english": "That comes to 5 euros.",
-          "chinese": "一共是5欧元。"
+          "de": "Ich mache einen Kuchen.",
+          "en": "I'm making a cake.",
+          "cn": "我在做蛋糕。"
         },
         {
-          "german": "Zusammen macht das 100 Kilometer.",
-          "english": "Altogether that amounts to 100 kilometers.",
-          "chinese": "加起来是100公里。"
+          "de": "Wer hat das Foto gemacht?",
+          "en": "Who took the photo?",
+          "cn": "谁拍的照片？"
+        },
+        {
+          "de": "Diese Firma macht Maschinen.",
+          "en": "This company makes machines.",
+          "cn": "这家公司生产机器。"
         }
       ]
     },
     {
-      "english": "to make/cause someone or something to be or become (machen + accusative + adjective/noun)",
-      "chinese": "使/让某人或某物变得…（machen + 宾语 + 形容词/名词）",
+      "en": "to make/cause/render; make sb./sth. (Adj.); appoint sb. to sth. (zu + Dat.)",
+      "cn": "使、让；使某人/某物变得（形容词）；任命某人为（zu + 与格）",
       "examples": [
         {
-          "german": "Das macht mich glücklich.",
-          "english": "That makes me happy.",
-          "chinese": "这让我很开心。"
+          "de": "Das macht mich glücklich.",
+          "en": "That makes me happy.",
+          "cn": "这让我开心。"
         },
         {
-          "german": "Lärm macht mich nervös.",
-          "english": "Noise makes me nervous.",
-          "chinese": "噪音让我紧张。"
+          "de": "Lärm macht mich nervös.",
+          "en": "Noise makes me nervous.",
+          "cn": "噪音让我紧张。"
         },
         {
-          "german": "Du machst mich zum Narren.",
-          "english": "You make a fool of me.",
-          "chinese": "你把我当傻子耍。"
+          "de": "Sie wurde zur Leiterin gemacht.",
+          "en": "She was made (appointed) manager.",
+          "cn": "她被任命为负责人。"
         }
       ]
     },
     {
-      "english": "to engage in; to take (an activity, break, holiday)",
-      "chinese": "进行；参加；休（如休息/度假）",
+      "en": "to amount to; total (prices, sums)",
+      "cn": "合计为；总共（价格、金额）",
       "examples": [
         {
-          "german": "Ich mache Sport.",
-          "english": "I do sports/exercise.",
-          "chinese": "我做运动。"
+          "de": "Das macht 10 Euro.",
+          "en": "That comes to 10 euros.",
+          "cn": "一共10欧元。"
         },
         {
-          "german": "Wir machen Urlaub an der See.",
-          "english": "We are taking a vacation at the sea.",
-          "chinese": "我们在海边度假。"
+          "de": "Wie viel macht das zusammen?",
+          "en": "How much is that in total?",
+          "cn": "一共多少钱？"
         },
         {
-          "german": "Lass uns eine Pause machen.",
-          "english": "Let's take a break.",
-          "chinese": "咱们休息一下吧。"
+          "de": "Mit Trinkgeld macht es 12 Euro.",
+          "en": "With tip, it makes 12 euros.",
+          "cn": "加上小费是12欧元。"
         }
       ]
     },
     {
-      "english": "(arithmetic) equals, results in",
-      "chinese": "（算术）等于；得出",
+      "en": "reflexive: to set about/start (doing sth.); to set off on one’s way",
+      "cn": "反身：着手开始；动身出发",
       "examples": [
         {
-          "german": "Fünf mal fünf macht fünfundzwanzig.",
-          "english": "Five times five equals twenty-five.",
-          "chinese": "五乘五等于二十五。"
+          "de": "Wir machen uns auf den Weg.",
+          "en": "We are setting off.",
+          "cn": "我们出发了。"
+        },
+        {
+          "de": "Er machte sich an die Arbeit.",
+          "en": "He set to work.",
+          "cn": "他开始工作了。"
+        },
+        {
+          "de": "Sie macht sich gleich daran, das Problem zu lösen.",
+          "en": "She is about to start solving the problem.",
+          "cn": "她马上着手解决这个问题。"
         }
       ]
     },
     {
-      "english": "colloquial/child’s language: to urinate/defecate",
-      "chinese": "口语/儿童用语：小便/大便",
+      "en": "idiomatic: it doesn’t matter; no problem",
+      "cn": "惯用：没关系；不要紧",
       "examples": [
         {
-          "german": "Der Junge muss klein machen.",
-          "english": "The boy has to pee.",
-          "chinese": "男孩要小便。"
+          "de": "Macht nichts!",
+          "en": "Never mind!",
+          "cn": "没关系！"
         },
         {
-          "german": "Das Kind hat groß gemacht.",
-          "english": "The child pooped.",
-          "chinese": "孩子大便了。"
+          "de": "Wenn du zu spät kommst, macht das nichts.",
+          "en": "If you’re late, it’s okay.",
+          "cn": "你迟到也没关系。"
+        },
+        {
+          "de": "Das macht keinen Unterschied.",
+          "en": "That makes no difference.",
+          "cn": "这没有区别。"
         }
       ]
     }
   ],
   "collocations": [
     {
-      "german": "etw. machen",
-      "english": "to do/make something",
-      "chinese": "做/制作某事/某物"
+      "de": "etw. (Akk.) machen",
+      "en": "do/make something",
+      "cn": "做/制造某物；做事"
     },
     {
-      "german": "jdm Angst machen",
-      "english": "to scare someone",
-      "chinese": "使某人害怕"
+      "de": "jdn. (Akk.) zu etw. (Dat.) machen",
+      "en": "make sb. into sth.; appoint sb. as",
+      "cn": "使某人成为…；任命某人为…"
     },
     {
-      "german": "jdn glücklich machen",
-      "english": "to make someone happy",
-      "chinese": "让某人开心"
+      "de": "aus etw. (Dat.) etw. (Akk.) machen",
+      "en": "make sth. out of sth.",
+      "cn": "把…做成…"
     },
     {
-      "german": "eine Pause machen",
-      "english": "to take a break",
-      "chinese": "休息一下"
+      "de": "Das macht X Euro.",
+      "en": "That comes to X euros.",
+      "cn": "一共X欧元。"
     },
     {
-      "german": "Urlaub machen",
-      "english": "to go on vacation",
-      "chinese": "去度假"
+      "de": "Es macht nichts.",
+      "en": "It doesn’t matter.",
+      "cn": "没关系。"
     },
     {
-      "german": "Lärm machen",
-      "english": "to make noise",
-      "chinese": "制造噪音"
+      "de": "jdm. (Dat.) Angst/Mut machen",
+      "en": "frighten/encourage someone",
+      "cn": "使某人害怕/鼓励某人"
     },
     {
-      "german": "ein Foto machen",
-      "english": "to take a photo",
-      "chinese": "拍一张照片"
+      "de": "Spaß/Sinn machen",
+      "en": "be fun/make sense",
+      "cn": "有趣/有道理"
     },
     {
-      "german": "Sinn machen",
-      "english": "to make sense",
-      "chinese": "有道理"
+      "de": "Urlaub/Sport/Pause machen",
+      "en": "take a vacation/do sports/take a break",
+      "cn": "度假/做运动/休息"
     },
     {
-      "german": "einen Unterschied machen",
-      "english": "to make a difference",
-      "chinese": "产生影响/差别"
+      "de": "Fotos/Videos machen",
+      "en": "take photos/videos",
+      "cn": "拍照片/视频"
     },
     {
-      "german": "sich über jdn/etw. lustig machen",
-      "english": "to make fun of somebody/something",
-      "chinese": "取笑某人/某事"
+      "de": "sich an die Arbeit / auf den Weg machen",
+      "en": "set to work / set off",
+      "cn": "开始工作 / 动身出发"
     }
   ],
   "related_words": [
     {
-      "german": "tun",
-      "english": "to do",
-      "chinese": "做"
+      "de": "tun",
+      "en": "to do",
+      "cn": "做"
     },
     {
-      "german": "herstellen",
-      "english": "to manufacture; to produce",
-      "chinese": "生产；制造"
+      "de": "herstellen",
+      "en": "to manufacture, produce",
+      "cn": "生产，制造"
     },
     {
-      "german": "erledigen",
-      "english": "to get something done; to take care of",
-      "chinese": "办妥；处理"
+      "de": "erledigen",
+      "en": "to take care of, handle",
+      "cn": "办理，处理"
     },
     {
-      "german": "unterlassen",
-      "english": "to refrain from; to omit",
-      "chinese": "避免；停止；不做"
+      "de": "erzeugen",
+      "en": "to generate, produce",
+      "cn": "产生，生产"
     },
     {
-      "german": "abbrechen",
-      "english": "to abort; to break off",
-      "chinese": "中止；停止"
+      "de": "zubereiten",
+      "en": "to prepare (food)",
+      "cn": "准备（食物）、烹制"
     },
     {
-      "german": "zerstören",
-      "english": "to destroy",
-      "chinese": "破坏；毁灭"
+      "de": "unterlassen",
+      "en": "to refrain from, desist",
+      "cn": "停止，避免做"
     },
     {
-      "german": "zubereiten",
-      "english": "to prepare (food)",
-      "chinese": "烹饪；准备（食物）"
+      "de": "zerstören",
+      "en": "to destroy",
+      "cn": "破坏，毁灭"
     },
     {
-      "german": "produzieren",
-      "english": "to produce",
-      "chinese": "生产；制作"
+      "de": "abbrechen",
+      "en": "to abort, break off, cancel",
+      "cn": "中止，取消"
     },
     {
-      "german": "Sinn ergeben",
-      "english": "to make sense (lit. to yield sense)",
-      "chinese": "有道理"
+      "de": "(Sinn) ergeben",
+      "en": "to result in; (make) sense",
+      "cn": "导致；（使）有道理（Sinn ergeben）"
     }
   ]
 }

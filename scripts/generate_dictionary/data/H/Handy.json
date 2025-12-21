@@ -1,118 +1,133 @@
 {
-  "german": "Handy",
+  "de": "Handy",
   "part_of_speech": "Nomen",
   "gender": "das",
   "is_separable": null,
+  "summary": {
+    "en": "Neuter noun for mobile phone/smartphone. Very common in DE/AT; CH often says “Natel”. Always capitalized; plural Handys. Common in compounds (Handynummer, Handyvertrag).",
+    "cn": "中性名词，指手机/智能手机。德奥常用，瑞士常用“Natel”。首字母大写，复数Handys。常作前缀构词：Handynummer, Handyvertrag。"
+  },
   "meanings": [
     {
-      "english": "mobile phone; cell phone; cellphone",
-      "chinese": "手机；移动电话",
+      "en": "mobile phone; cell phone; smartphone (the device)",
+      "cn": "手机；移动电话；智能手机（设备本身）",
       "examples": [
         {
-          "german": "Ich habe mein Handy zu Hause vergessen.",
-          "english": "I forgot my phone at home.",
-          "chinese": "我把手机忘在家里了。"
+          "de": "Ich habe mein Handy zu Hause vergessen.",
+          "en": "I forgot my phone at home.",
+          "cn": "我把手机忘在家里了。"
         },
         {
-          "german": "Der Akku von meinem Handy ist leer.",
-          "english": "My phone's battery is dead.",
-          "chinese": "我的手机电池没电了。"
+          "de": "Ruf mich bitte aufs Handy an.",
+          "en": "Please call me on my cell phone.",
+          "cn": "请打我手机。"
         },
         {
-          "german": "Kannst du mir deine Handynummer geben?",
-          "english": "Can you give me your mobile number?",
-          "chinese": "你能给我你的手机号码吗？"
+          "de": "Sie hat auf ihrem Handy keinen Empfang.",
+          "en": "She has no reception on her phone.",
+          "cn": "她的手机没有信号。"
+        }
+      ]
+    },
+    {
+      "en": "prefix in compounds: Handy- meaning related to mobile phones",
+      "cn": "用于复合词前缀：Handy-，表示与手机相关",
+      "examples": [
+        {
+          "de": "Ich brauche ein neues Handy-Ladegerät.",
+          "en": "I need a new phone charger.",
+          "cn": "我需要一个新的手机充电器。"
+        },
+        {
+          "de": "Die Handynummer steht auf der Visitenkarte.",
+          "en": "The mobile number is on the business card.",
+          "cn": "名片上写着手机号码。"
         }
       ]
     }
   ],
   "collocations": [
     {
-      "german": "ein Handy benutzen",
-      "english": "to use a mobile phone",
-      "chinese": "使用手机"
+      "de": "ein Handy haben",
+      "en": "to have a mobile phone",
+      "cn": "有手机"
     },
     {
-      "german": "am Handy sein",
-      "english": "to be on the phone (mobile)",
-      "chinese": "在用手机／在打手机"
+      "de": "das Handy benutzen",
+      "en": "to use the phone",
+      "cn": "使用手机"
     },
     {
-      "german": "ans Handy gehen",
-      "english": "to answer the phone",
-      "chinese": "接手机"
+      "de": "das Handy einschalten",
+      "en": "to switch on the phone",
+      "cn": "打开手机"
     },
     {
-      "german": "das Handy aufladen",
-      "english": "to charge the phone",
-      "chinese": "给手机充电"
+      "de": "das Handy ausschalten",
+      "en": "to switch off the phone",
+      "cn": "关掉手机"
     },
     {
-      "german": "das Handy ausschalten",
-      "english": "to switch off the phone",
-      "chinese": "关手机"
+      "de": "das Handy stummschalten",
+      "en": "to mute the phone",
+      "cn": "将手机静音"
     },
     {
-      "german": "das Handy einschalten",
-      "english": "to switch on the phone",
-      "chinese": "开手机"
+      "de": "das Handy aufladen",
+      "en": "to charge the phone",
+      "cn": "给手机充电"
     },
     {
-      "german": "das Handy klingelt",
-      "english": "the phone is ringing",
-      "chinese": "手机在响"
+      "de": "aufs Handy anrufen",
+      "en": "to call (someone’s) cell phone",
+      "cn": "打（某人的）手机"
     },
     {
-      "german": "das Handy lautlos stellen",
-      "english": "to put the phone on silent",
-      "chinese": "把手机调成静音"
+      "de": "am Handy sein",
+      "en": "to be on the phone (mobile)",
+      "cn": "在用手机通话/忙于手机"
     },
     {
-      "german": "eine Handyhülle",
-      "english": "a phone case",
-      "chinese": "手机壳"
+      "de": "das Handy verlieren",
+      "en": "to lose the phone",
+      "cn": "把手机丢了"
     },
     {
-      "german": "ein Handyvertrag",
-      "english": "a mobile phone contract/plan",
-      "chinese": "手机合约／套餐"
+      "de": "keinen Handyempfang haben",
+      "en": "to have no mobile reception",
+      "cn": "没有手机信号"
     }
   ],
   "related_words": [
     {
-      "german": "Mobiltelefon",
-      "english": "mobile phone",
-      "chinese": "移动电话"
+      "de": "das Mobiltelefon",
+      "en": "mobile telephone",
+      "cn": "移动电话"
     },
     {
-      "german": "Smartphone",
-      "english": "smartphone",
-      "chinese": "智能手机"
+      "de": "das Smartphone",
+      "en": "smartphone",
+      "cn": "智能手机"
     },
     {
-      "german": "Natel",
-      "english": "mobile phone (Swiss usage)",
-      "chinese": "手机（瑞士德语）"
+      "de": "das Natel",
+      "en": "(Swiss German) mobile phone",
+      "cn": "瑞士德语：手机"
     },
     {
-      "german": "Festnetztelefon",
-      "english": "landline telephone",
-      "chinese": "固定电话"
+      "de": "das Festnetztelefon",
+      "en": "landline telephone",
+      "cn": "固定电话"
     },
     {
-      "german": "Festnetz",
-      "english": "fixed-line network; landline",
-      "chinese": "固定电话网络；固话"
+      "de": "die Handynummer",
+      "en": "mobile phone number",
+      "cn": "手机号码"
     },
     {
-      "german": "SIM-Karte",
-      "english": "SIM card",
-      "chinese": "SIM卡"
-    },
-    {
-      "german": "Akku",
-      "english": "battery (rechargeable)",
-      "chinese": "电池（可充电）"
+      "de": "der Handyvertrag",
+      "en": "mobile phone plan/contract",
+      "cn": "手机合约/套餐"
     }
   ]
 }
